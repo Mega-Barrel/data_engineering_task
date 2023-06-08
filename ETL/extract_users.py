@@ -1,20 +1,23 @@
 """
 Extracting user's data from stackexchange /users/{idx} endpoint
 """
+import os
 from time import strftime, localtime
 import requests
+from dotenv import load_dotenv
 from ETL.load_pg_process_data import PGInsertData
 
 def get_user_details(user_id):
     """
     Function to process user's meta-data
     """
+    load_dotenv()
     # Extract
     base_url = "https://api.stackexchange.com/2.3/users"
     site = "stackoverflow"
     search_filter = '!)Dgrs*Zf0Ff1-JmanJdiT6bXi*EzQf(OVIVGF7IynBhQeA'
-    key = "8huoT7h0E*jq93tyxr7bLA(("
-    token = "5*XhzdJioX*ei9gdntMRDw))"
+    key = os.environ.get('key')
+    token = os.environ.get('access_token')
     usr_id = user_id
 
     query = f"{base_url}/{usr_id}?key={key}&access_token={token}&filter={search_filter}&site={site}"
