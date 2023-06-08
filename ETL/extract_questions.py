@@ -1,8 +1,10 @@
 """ File to handle Question pre-processing steps"""
 from time import strftime, localtime
+import os
 
 import re
 import requests
+from dotenv import load_dotenv
 from ETL.extract_users import get_user_details
 from ETL.load_pg_process_data import PGInsertData
 
@@ -10,13 +12,14 @@ def get_questions():
     """
     Function to get Questions for pre-defined tags - {mysql and python}
     """
+    load_dotenv()
     # Check if the request was successful (status code 200)
     base_url = "https://api.stackexchange.com/2.3/questions"
     site = "stackoverflow"
     tagged = 'mysql;python'
     search_filter = '!BRwFZWvJ.iUeCIpDNUB0-1X4lnzhsU'
-    key = "8huoT7h0E*jq93tyxr7bLA(("
-    access_token = "5*XhzdJioX*ei9gdntMRDw))"
+    key = os.environ.get('key')
+    access_token = os.environ.get('access_token')
     page_size=30
     fromdate = 1682899200
     todate = 1685491200
