@@ -1,0 +1,1734 @@
+{
+    "items": [
+        {
+            "tags": [
+                "python",
+                "mysql",
+                "statistics"
+            ],
+            "comments": [
+                {
+                    "owner": {
+                        "account_id": 11533617,
+                        "reputation": 3593,
+                        "user_id": 8451814,
+                        "user_type": "registered",
+                        "profile_image": "https://www.gravatar.com/avatar/fe819b52ea77c8a195abbdabb2e6f31c?s=256&d=identicon&r=PG&f=y&so-version=2",
+                        "display_name": "Woodford",
+                        "link": "https://stackoverflow.com/users/8451814/woodford"
+                    },
+                    "edited": false,
+                    "score": 1,
+                    "post_type": "question",
+                    "creation_date": 1685467507,
+                    "post_id": 76367195,
+                    "comment_id": 134663124,
+                    "content_license": "CC BY-SA 4.0",
+                    "link": "https://stackoverflow.com/questions/76367195/find-population-clusters-in-a-list-in-python#comment134663124_76367195",
+                    "body": "Can you please <a href=\"https://stackoverflow.com/posts/76367195/edit\">edit</a> your question to include what you have tried so far to solve the issue? See: <a href=\"https://stackoverflow.com/help/how-to-ask\"><i>How to ask a good question</i></a>"
+                },
+                {
+                    "owner": {
+                        "account_id": 9725613,
+                        "reputation": 52424,
+                        "user_id": 7212686,
+                        "user_type": "registered",
+                        "accept_rate": 100,
+                        "profile_image": "https://i.stack.imgur.com/tC5Ht.png?s=256&g=1",
+                        "display_name": "azro",
+                        "link": "https://stackoverflow.com/users/7212686/azro"
+                    },
+                    "edited": false,
+                    "score": 2,
+                    "post_type": "question",
+                    "creation_date": 1685467542,
+                    "post_id": 76367195,
+                    "comment_id": 134663131,
+                    "content_license": "CC BY-SA 4.0",
+                    "link": "https://stackoverflow.com/questions/76367195/find-population-clusters-in-a-list-in-python#comment134663131_76367195",
+                    "body": "See comments and answers of <a href=\"https://stackoverflow.com/questions/15800895/finding-clusters-of-numbers-in-a-list\" title=\"finding clusters of numbers in a list\">stackoverflow.com/questions/15800895/&hellip;</a>"
+                },
+                {
+                    "owner": {
+                        "account_id": 2345355,
+                        "reputation": 163,
+                        "user_id": 2055767,
+                        "user_type": "registered",
+                        "accept_rate": 36,
+                        "profile_image": "https://www.gravatar.com/avatar/020133ee96787b31ca4289c199f30aad?s=256&d=identicon&r=PG",
+                        "display_name": "cotfessi",
+                        "link": "https://stackoverflow.com/users/2055767/cotfessi"
+                    },
+                    "reply_to_user": {
+                        "account_id": 11533617,
+                        "reputation": 3593,
+                        "user_id": 8451814,
+                        "user_type": "registered",
+                        "profile_image": "https://www.gravatar.com/avatar/fe819b52ea77c8a195abbdabb2e6f31c?s=256&d=identicon&r=PG&f=y&so-version=2",
+                        "display_name": "Woodford",
+                        "link": "https://stackoverflow.com/users/8451814/woodford"
+                    },
+                    "edited": false,
+                    "score": 0,
+                    "post_type": "question",
+                    "creation_date": 1685467840,
+                    "post_id": 76367195,
+                    "comment_id": 134663183,
+                    "content_license": "CC BY-SA 4.0",
+                    "link": "https://stackoverflow.com/questions/76367195/find-population-clusters-in-a-list-in-python#comment134663183_76367195",
+                    "body": "@Woodford - wasn&#39;t sure if i was even asking the right question or using the appropriate statistical terms - didn&#39;t want someone to write an algorithm for me, just point me in the direction... didn&#39;t want to reinvent the wheel. it looks like i might need to check out k-means clustering.... thanks!"
+                },
+                {
+                    "owner": {
+                        "account_id": 1225662,
+                        "reputation": 10352,
+                        "user_id": 1191247,
+                        "user_type": "registered",
+                        "accept_rate": 75,
+                        "profile_image": "https://www.gravatar.com/avatar/8821d8863aa853749bbecfaefe452230?s=256&d=identicon&r=PG&f=y&so-version=2",
+                        "display_name": "user1191247",
+                        "link": "https://stackoverflow.com/users/1191247/user1191247"
+                    },
+                    "edited": false,
+                    "score": 0,
+                    "post_type": "question",
+                    "creation_date": 1685473091,
+                    "post_id": 76367195,
+                    "comment_id": 134664153,
+                    "content_license": "CC BY-SA 4.0",
+                    "link": "https://stackoverflow.com/questions/76367195/find-population-clusters-in-a-list-in-python#comment134664153_76367195",
+                    "body": "Does this answer your question? <a href=\"https://stackoverflow.com/questions/15800895/finding-clusters-of-numbers-in-a-list\">Finding clusters of numbers in a list</a>"
+                },
+                {
+                    "owner": {
+                        "account_id": 9417,
+                        "reputation": 95838,
+                        "user_id": 17389,
+                        "user_type": "registered",
+                        "accept_rate": 38,
+                        "profile_image": "https://www.gravatar.com/avatar/cd06d1314817ce946ab796af8750b56a?s=256&d=identicon&r=PG",
+                        "display_name": "ysth",
+                        "link": "https://stackoverflow.com/users/17389/ysth"
+                    },
+                    "edited": false,
+                    "score": 0,
+                    "post_type": "question",
+                    "creation_date": 1685475711,
+                    "post_id": 76367195,
+                    "comment_id": 134664677,
+                    "content_license": "CC BY-SA 4.0",
+                    "link": "https://stackoverflow.com/questions/76367195/find-population-clusters-in-a-list-in-python#comment134664677_76367195",
+                    "body": "Please define what makes something a cluster.  Examples are helpful but insufficient."
+                }
+            ],
+            "answers": [
+                {
+                    "owner": {
+                        "account_id": 11443181,
+                        "reputation": 17368,
+                        "user_id": 8431111,
+                        "user_type": "registered",
+                        "profile_image": "https://i.stack.imgur.com/GteAE.jpg?s=256&g=1",
+                        "display_name": "J_H",
+                        "link": "https://stackoverflow.com/users/8431111/j-h"
+                    },
+                    "comment_count": 0,
+                    "accepted": false,
+                    "is_accepted": false,
+                    "score": 0,
+                    "last_activity_date": 1685479840,
+                    "creation_date": 1685479840,
+                    "answer_id": 76368535,
+                    "question_id": 76367195,
+                    "content_license": "CC BY-SA 4.0",
+                    "title": "find population clusters in a list in python",
+                    "body": "<p>Based on the example values shown,\nthis may be a good candidate for\n<a href=\"https://centre-borelli.github.io/ruptures-docs\" rel=\"nofollow noreferrer\">ruptures</a>\nchange point detection.\nIt defines a loss function and then finds a global minimum.</p>\n<p>You can specify that the algorithm shall find K break points,\nsimilar to K-means. Or you can let it decide what number\nof break points best explains changes in the generating process.</p>\n"
+                },
+                {
+                    "owner": {
+                        "account_id": 2345355,
+                        "reputation": 163,
+                        "user_id": 2055767,
+                        "user_type": "registered",
+                        "accept_rate": 36,
+                        "profile_image": "https://www.gravatar.com/avatar/020133ee96787b31ca4289c199f30aad?s=256&d=identicon&r=PG",
+                        "display_name": "cotfessi",
+                        "link": "https://stackoverflow.com/users/2055767/cotfessi"
+                    },
+                    "comment_count": 0,
+                    "accepted": false,
+                    "is_accepted": false,
+                    "score": 0,
+                    "last_activity_date": 1685570817,
+                    "last_edit_date": 1685570817,
+                    "creation_date": 1685569792,
+                    "answer_id": 76377517,
+                    "question_id": 76367195,
+                    "content_license": "CC BY-SA 4.0",
+                    "title": "find population clusters in a list in python",
+                    "body": "<p>I think i finally got this to work!  i figured i'd post my solution in case anyone else may search on this later...</p>\n<p>since i didn't know how many clusters or the spread of values within each cluster, i made an initial assumption that values should be within +/- 5% of the total distance from list max to list min.</p>\n<p>if i can't find a group for a specific score, i double the spread and try again. if i still can't find it, it gets a new group</p>\n<p>finally, in case that a score may appear to belong to more than one group given my assumption of the size of the spread, i place the score in the group with the shortest distance from score-in-question to the median of said group</p>\n<p><strong>the starting list:</strong></p>\n<pre><code>scores = [9944, 9555, 9772, 9707, 9623, 9724, 9717, 9751, 9717, 9763, 8967, 8988, 9000, 8836, 8968, 8996, 9173, 9027, 8896, 9130, 4301, 3806, 3696, 4372, 4203, 4702, 4290, 4552, 4113, 4325]\n</code></pre>\n<p><strong>the results:</strong></p>\n<pre><code>RESULTS: (completed in 0.000287 seconds)\n-----&gt; group [0]: [9944, 9555, 9772, 9707, 9623, 9724, 9717, 9751, 9717, 9763]\n-----&gt; group [1]: [8967, 8988, 9000, 8836, 8968, 8996, 9173, 9027, 8896, 9130]\n-----&gt; group [2]: [4301, 3806, 3696, 4372, 4203, 4702, 4290, 4552, 4113, 4325]\n</code></pre>\n<p><strong>the code:</strong></p>\n<pre><code>import time\nimport statistics\n\n\ndef analyze_list(list_to_analyze):\n    # setup\n    groupings = []\n    list_max = max(list_to_analyze)\n    list_min = min(list_to_analyze)\n    spread = int((list_max - list_min) * 0.05)\n    print('Starting with max = [{}], min = [{}], spread = [{}]'.format(list_max, list_min, spread))\n\n    count = 0\n    for tmp_score in list_to_analyze:\n        print('-&gt; checking [{}]...'.format(tmp_score))\n\n        # special case for the first one, it gets placed in the first group\n        if count == 0:\n            tmp_list = [tmp_score]\n            groupings.append(tmp_list)\n            print('-------&gt; WAHOO! adding [{}] to group [{}]'.format(tmp_score, 0))\n        else:\n            # check tmp_score against the median score of each group\n            # don't place them in the group, just add them to the 'tmp_placement_list'\n            # dictionary with the distance to the median\n            # -------------------------------------------------------------\n            count_group = 0\n            score_placed = False\n            tmp_placement_list = {}\n            for tmp_group_list in groupings:\n                tmp_median = int(statistics.median(tmp_group_list))\n\n                # calculate how close the score to check is to the median score in the current group\n                distance_from_median_value = abs(tmp_median - tmp_score)\n                print('---&gt; group [{}]  range = ({}..{}) - distance to median = [{}] '.format(count_group,\n                                                                                              tmp_median - spread,\n                                                                                              tmp_median + spread,\n                                                                                              distance_from_median_value))\n\n                if distance_from_median_value &lt;= spread:\n                    tmp_placement_list[count_group] = distance_from_median_value\n\n                # increment counter\n                count_group = count_group + 1\n\n            # analyze 'tmp_placement_list' dictionary - place score in\n            # group with the smallest distance to the median\n            # -------------------------------------------------------------\n            min_distance = spread * 2\n            winning_group = -1\n            for tmp_group_number in tmp_placement_list.keys():\n                print('-----&gt; result - group [{}] distance [{}]'.format(tmp_group_number, tmp_placement_list[tmp_group_number]))\n                if tmp_placement_list[tmp_group_number] &lt; min_distance:\n                    min_distance = tmp_placement_list[tmp_group_number]\n                    winning_group = tmp_group_number\n\n            if winning_group &gt; -1:\n                groupings[winning_group].append(tmp_score)\n                score_placed = True\n                print('-------&gt; WAHOO! adding [{}] to group [{}]'.format(tmp_score, winning_group))\n\n            if not score_placed:\n                # if we got here 'tmp_score' isn't within the current 'spread' of any of the groups.\n                # double the spread and try again\n                # -------------------------------------------------------------\n                second_chance_spread = spread * 2\n                tmp_placement_list = {}\n                count_group = 0\n                for tmp_group_list in groupings:\n                    tmp_median = int(statistics.median(tmp_group_list))\n\n                    # calculate how close the score to check is to the median score in the current group\n                    distance_from_median_value = abs(tmp_median - tmp_score)\n                    print('---&gt; 2nd chance - group [{}]  range = ({}..{}) - dist median = [{}] '.format(count_group,\n                                                                                                        tmp_median - spread,\n                                                                                                        tmp_median + spread,\n                                                                                                        distance_from_median_value))\n\n                    if distance_from_median_value &lt;= second_chance_spread:\n                        tmp_placement_list[count_group] = distance_from_median_value\n\n                    # increment counter\n                    count_group = count_group + 1\n\n                # analyze results - place score in group with the smallest distance to the median\n                # -------------------------------------------------------------\n                min_distance = spread * 2\n                winning_group = -1\n                for tmp_group_number in tmp_placement_list.keys():\n                    print(\n                        '-----&gt; result - group [{}] distance [{}]'.format(tmp_group_number, tmp_placement_list[tmp_group_number]))\n                    if tmp_placement_list[tmp_group_number] &lt; min_distance:\n                        min_distance = tmp_placement_list[tmp_group_number]\n                        winning_group = tmp_group_number\n\n                if winning_group &gt; -1:\n                    groupings[winning_group].append(tmp_score)\n                    score_placed = True\n                    print('-------&gt; WAHOO! adding [{}] to group [{}]'.format(tmp_score, winning_group))\n\n            if not score_placed:\n                # if we got this far, then 'tmp_score' isn't within the 2x the original 'spread' of any of the\n                # medians of any of the groups\n                # assumption: this score is the start of a new group\n                # -------------------------------------------------------------\n                tmp_list = [tmp_score]\n                groupings.append(tmp_list)\n\n        # increment counter\n        count = count + 1\n\n    return groupings\n\n\nif __name__ == &quot;__main__&quot;:\n\n    # the initial list of scores\n    scores = [9944, 9555, 9772, 9707, 9623, 9724, 9717, 9751, 9717, 9763, 8967, 8988, 9000, 8836, 8968, 8996, 9173,\n              9027, 8896, 9130, 4301, 3806, 3696, 4372, 4203, 4702, 4290, 4552, 4113, 4325]\n\n    # time the execution of the analysis\n    time_start = time.time()\n    score_groupings = analyze_list(scores)\n    time_end = time.time()\n\n    # print the results\n    print('\\n\\nRESULTS: (completed in {} seconds)'.format(format(time_end - time_start, &quot;.6f&quot;)))\n    count = 0\n    for tmp_group in score_groupings:\n        print('-----&gt; group [{}]: {}'.format(count, tmp_group))\n        count = count + 1\n</code></pre>\n"
+                }
+            ],
+            "owner": {
+                "account_id": 2345355,
+                "reputation": 163,
+                "user_id": 2055767,
+                "user_type": "registered",
+                "accept_rate": 36,
+                "profile_image": "https://www.gravatar.com/avatar/020133ee96787b31ca4289c199f30aad?s=256&d=identicon&r=PG",
+                "display_name": "cotfessi",
+                "link": "https://stackoverflow.com/users/2055767/cotfessi"
+            },
+            "comment_count": 5,
+            "is_answered": false,
+            "view_count": 46,
+            "answer_count": 2,
+            "score": -2,
+            "last_activity_date": 1685570817,
+            "creation_date": 1685467246,
+            "last_edit_date": 1685485367,
+            "question_id": 76367195,
+            "share_link": "https://stackoverflow.com/q/76367195/14467927",
+            "link": "https://stackoverflow.com/questions/76367195/find-population-clusters-in-a-list-in-python",
+            "title": "find population clusters in a list in python",
+            "body": "<p>I have a algorithm that is spitting out a list of scores:</p>\n<p><code>list_of_scores = [100, 101, 102, 101, 43, 42, 42, 41, 20, 21, 22, 23]</code></p>\n<p>in the above list, there is a 'cluster' of scores around 100, another 'cluster' around 42, and another 'cluster' around 22.</p>\n<p>Score lists will always contain 1 or more clusters.</p>\n<p>I need to summarize the scores by creating a list containing 1 member from each 'cluster' of scores.  the exact median score of the cluster is not important - i just need to have a score (an actual element in the list) from each 'cluster'.</p>\n<p>Anyone have any thoughts on how to accomplish this in python?</p>\n<p>edit:  i won't know the number of potential clusters beforehand or the spread of the cluster itself:</p>\n<ul>\n<li><p>one list may contain 3 clusters of data, another list may contain\nonly 1 cluster in that all of the data may be close to one value.</p>\n</li>\n<li><p>one list may contain 2 clusters, each member of the cluster is within\n+/- 10 around the center point, whereas the other cluster, each member of the cluster may be within +/- 25 of the center point</p>\n</li>\n</ul>\n"
+        },
+        {
+            "tags": [
+                "python",
+                "mysql",
+                "windows"
+            ],
+            "comments": [
+                {
+                    "owner": {
+                        "account_id": 1412218,
+                        "reputation": 8786,
+                        "user_id": 1338588,
+                        "user_type": "registered",
+                        "accept_rate": 64,
+                        "profile_image": "https://i.stack.imgur.com/j4Fva.jpg?s=256&g=1",
+                        "display_name": "Kulasangar",
+                        "link": "https://stackoverflow.com/users/1338588/kulasangar"
+                    },
+                    "edited": false,
+                    "score": 0,
+                    "post_type": "question",
+                    "creation_date": 1685458429,
+                    "post_id": 76365600,
+                    "comment_id": 134661054,
+                    "content_license": "CC BY-SA 4.0",
+                    "link": "https://stackoverflow.com/questions/76365600/python-mysql-connector-demo-works-on-wsl-but-fails-when-run-from-windows#comment134661054_76365600",
+                    "body": "the ping works fine with the 3306 port?"
+                },
+                {
+                    "owner": {
+                        "account_id": 2061691,
+                        "reputation": 841,
+                        "user_id": 1838076,
+                        "user_type": "registered",
+                        "profile_image": "https://i.stack.imgur.com/oMfSx.jpg?s=256&g=1",
+                        "display_name": "Krishna",
+                        "link": "https://stackoverflow.com/users/1838076/krishna"
+                    },
+                    "reply_to_user": {
+                        "account_id": 1412218,
+                        "reputation": 8786,
+                        "user_id": 1338588,
+                        "user_type": "registered",
+                        "accept_rate": 64,
+                        "profile_image": "https://i.stack.imgur.com/j4Fva.jpg?s=256&g=1",
+                        "display_name": "Kulasangar",
+                        "link": "https://stackoverflow.com/users/1338588/kulasangar"
+                    },
+                    "edited": false,
+                    "score": 0,
+                    "post_type": "question",
+                    "creation_date": 1685458982,
+                    "post_id": 76365600,
+                    "comment_id": 134661178,
+                    "content_license": "CC BY-SA 4.0",
+                    "link": "https://stackoverflow.com/questions/76365600/python-mysql-connector-demo-works-on-wsl-but-fails-when-run-from-windows#comment134661178_76365600",
+                    "body": "Yes, it works with the port"
+                }
+            ],
+            "answers": [
+                {
+                    "owner": {
+                        "account_id": 2061691,
+                        "reputation": 841,
+                        "user_id": 1838076,
+                        "user_type": "registered",
+                        "profile_image": "https://i.stack.imgur.com/oMfSx.jpg?s=256&g=1",
+                        "display_name": "Krishna",
+                        "link": "https://stackoverflow.com/users/1838076/krishna"
+                    },
+                    "comment_count": 0,
+                    "accepted": false,
+                    "is_accepted": false,
+                    "score": 0,
+                    "last_activity_date": 1685510137,
+                    "creation_date": 1685510137,
+                    "answer_id": 76370340,
+                    "question_id": 76365600,
+                    "content_license": "CC BY-SA 4.0",
+                    "title": "Python-MySQL connector demo works on WSL but fails when run from Windows",
+                    "body": "<p>Looks like its a bug, I have reported it and waiting for an update <a href=\"https://bugs.mysql.com/bug.php?id=111209\" rel=\"nofollow noreferrer\">here</a></p>\n<p>It works everywhere if I do not specify the Database name in the call to the <code>connect()</code> function.\nBut <strong>fails just on Windows if I specify the Database name</strong> in the call to the <code>connect()</code> function</p>\n"
+                }
+            ],
+            "owner": {
+                "account_id": 2061691,
+                "reputation": 841,
+                "user_id": 1838076,
+                "user_type": "registered",
+                "profile_image": "https://i.stack.imgur.com/oMfSx.jpg?s=256&g=1",
+                "display_name": "Krishna",
+                "link": "https://stackoverflow.com/users/1838076/krishna"
+            },
+            "comment_count": 2,
+            "is_answered": false,
+            "view_count": 44,
+            "answer_count": 1,
+            "score": 0,
+            "last_activity_date": 1685510137,
+            "creation_date": 1685455027,
+            "last_edit_date": 1685456576,
+            "question_id": 76365600,
+            "share_link": "https://stackoverflow.com/q/76365600/14467927",
+            "link": "https://stackoverflow.com/questions/76365600/python-mysql-connector-demo-works-on-wsl-but-fails-when-run-from-windows",
+            "title": "Python-MySQL connector demo works on WSL but fails when run from Windows",
+            "body": "<p>I have a simple demo program trying to demonstrate the connection to MySQL from Python, that works fine on WSL for fails on Windows.</p>\n<p>Here is the sample code</p>\n<pre class=\"lang-py prettyprint-override\"><code>import mysql.connector\n\ncon = mysql.connector.connect(\n    host='mysql-host',\n    user='mysql-user',\n    password='mysql-password',\n    database='myql-db',\n    port=3306,\n    use_pure=True\n)\nprint(con)\ncur = con.cursor()\ncur.execute('SHOW TABLES;')\nfor i in cur.fetchall():\n    print(i)\n\n</code></pre>\n<p>Output on WSL</p>\n<pre><code>&lt;mysql.connector.connection.MySQLConnection object at 0x7fd6cece4790&gt;\n('Table1',)\n('Table2',)\n('Table3',)\n('Table4',)\n...\n('Table5',)\n</code></pre>\n<p>Output on Windows</p>\n<pre><code>&lt;mysql.connector.connection.MySQLConnection object at 0x00000211CF9B5750&gt;\nTraceback (most recent call last):\n  File &quot;C:\\Users\\User\\hello.py&quot;, line 12, in &lt;module&gt;\n    cur = con.cursor()\n          ^^^^^^^^^^^^\n  File &quot;C:\\Users\\User\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mysql\\connector\\connection.py&quot;, line 1410, in cursor     \n    raise OperationalError(&quot;MySQL Connection not available&quot;)\nmysql.connector.errors.OperationalError: MySQL Connection not available\n</code></pre>\n<p>It also works on Windows with <code>mysqlsh.exe</code></p>\n<pre><code>&gt;mysqlsh.exe mysql://mysql-host:3306 -u mysql-user --sql  \nMySQL Shell 8.0.33\n\nCopyright (c) 2016, 2023, Oracle and/or its affiliates.\nOracle is a registered trademark of Oracle Corporation and/or its affiliates.\nOther names may be trademarks of their respective owners.\n\nType '\\help' or '\\?' for help; '\\quit' to exit.\nCreating a Classic session to 'mysql-user@mysql-host:3306'\nFetching global names for auto-completion... Press ^C to stop.\nYour MySQL connection id is 348624462\nServer version: 5.6.12 Source distribution\nNo default schema selected; type \\use &lt;schema&gt; to set one.\n MySQL  mysql-host:3306  SQL &gt; use mysql-db;\nDefault schema set to `mysql-db`.\nFetching global names, object names from `mysql-db` for auto-completion... Press ^C to stop.\n MySQL  mysql-host:3306  mysql-db SQL &gt; show tables;\n+----------------------+\n| Tables_in_mysql-db   |\n+----------------------+\n| Table1               |\n| ...                  |\n+----------------------+\n10 rows in set (0.8742 sec)\n</code></pre>\n<p>Ping to the <code>mysql-host</code> works fine on both. Looking for clues on what else might be wrong?</p>\n"
+        },
+        {
+            "tags": [
+                "python",
+                "mysql",
+                "json"
+            ],
+            "comments": [
+                {
+                    "owner": {
+                        "account_id": 5381866,
+                        "reputation": 8290,
+                        "user_id": 4286884,
+                        "user_type": "registered",
+                        "accept_rate": 50,
+                        "profile_image": "https://www.gravatar.com/avatar/b42d6e50c8eb2d349807cc0a7beae49b?s=256&d=identicon&r=PG&f=y&so-version=2",
+                        "display_name": "SelVazi",
+                        "link": "https://stackoverflow.com/users/4286884/selvazi"
+                    },
+                    "edited": false,
+                    "score": 0,
+                    "post_type": "question",
+                    "creation_date": 1685436631,
+                    "post_id": 76363107,
+                    "comment_id": 134655828,
+                    "content_license": "CC BY-SA 4.0",
+                    "link": "https://stackoverflow.com/questions/76363107/is-there-a-better-way-to-insert-json-data-into-a-mysql-table-using-python#comment134655828_76363107",
+                    "body": "Please edit your question and use english only"
+                },
+                {
+                    "owner": {
+                        "account_id": 6767185,
+                        "reputation": 17727,
+                        "user_id": 5211833,
+                        "user_type": "registered",
+                        "accept_rate": 83,
+                        "profile_image": "https://i.stack.imgur.com/Pyme2.jpg?s=256&g=1",
+                        "display_name": "Adriaan",
+                        "link": "https://stackoverflow.com/users/5211833/adriaan"
+                    },
+                    "reply_to_user": {
+                        "account_id": 5381866,
+                        "reputation": 8290,
+                        "user_id": 4286884,
+                        "user_type": "registered",
+                        "accept_rate": 50,
+                        "profile_image": "https://www.gravatar.com/avatar/b42d6e50c8eb2d349807cc0a7beae49b?s=256&d=identicon&r=PG&f=y&so-version=2",
+                        "display_name": "SelVazi",
+                        "link": "https://stackoverflow.com/users/4286884/selvazi"
+                    },
+                    "edited": false,
+                    "score": 2,
+                    "post_type": "question",
+                    "creation_date": 1685436759,
+                    "post_id": 76363107,
+                    "comment_id": 134655866,
+                    "content_license": "CC BY-SA 4.0",
+                    "link": "https://stackoverflow.com/questions/76363107/is-there-a-better-way-to-insert-json-data-into-a-mysql-table-using-python#comment134655866_76363107",
+                    "body": "@SelVazi rather than just adding the comment, please also use your close vote privilege to close it for not being in English."
+                }
+            ],
+            "owner": {
+                "account_id": 28708525,
+                "reputation": 1,
+                "user_id": 21984444,
+                "user_type": "registered",
+                "profile_image": "https://graph.facebook.com/10167576215350150/picture?type=large",
+                "display_name": "Roberto Sgueglia",
+                "link": "https://stackoverflow.com/users/21984444/roberto-sgueglia"
+            },
+            "comment_count": 2,
+            "is_answered": false,
+            "view_count": 24,
+            "closed_date": 1685436772,
+            "answer_count": 0,
+            "score": -1,
+            "last_activity_date": 1685436601,
+            "creation_date": 1685436477,
+            "last_edit_date": 1685436601,
+            "question_id": 76363107,
+            "share_link": "https://stackoverflow.com/q/76363107/14467927",
+            "link": "https://stackoverflow.com/questions/76363107/is-there-a-better-way-to-insert-json-data-into-a-mysql-table-using-python",
+            "closed_reason": "Not suitable for this site",
+            "title": "Is there a better way to insert JSON data into a MySQL table using Python?",
+            "body": "<pre><code>[\n    {\n    &quot;Codice_Cliente&quot;: 39,\n    &quot;Marca&quot;:&quot;CLN&quot;,\n    &quot;Articolo&quot;:&quot;DA990&quot;,\n    &quot;Quantita_Ordine&quot;: 2\n    },\n    {\n    &quot;Codice_Cliente&quot;: 39,\n    &quot;Marca&quot;:&quot;CLN&quot;,\n    &quot;Articolo&quot;:&quot;DA991&quot;,\n    &quot;Quantita_Ordine&quot;: 20\n    }\n]\n</code></pre>\n<p>ho questo json da una richiesta con metodo &quot;POST&quot; tramite endpoint. Come posso inserire i dati in una tabella mysql con python ?\nIo ho questo codice ma fornisce errore:</p>\n<pre><code>@app.route('/create_order', methods=['POST'])\ndef create_order():\n     try:\n          cursor=conexion.connection.cursor()\n          sql = &quot;&quot;&quot;INSERT INTO order(Codice_Cliente, Marca, Articolo, Quantita_Ordine) \n          VALUES ({0}, '{1}', '{2}' , {3})&quot;&quot;&quot;.format(request.json['Codice_Cliente'],request.json['Marca'],request.json['Articolo'], request.json['Quantita_Ordine'])\n          cursor.execute(sql)\n          conexion.connection.commit()\nreturn jsonify({'Esito' : &quot;Ordine Registrato Con Successo&quot;})\n      except Exception as err:\n          return jsonify({'errore' : &quot;error&quot;})\n</code></pre>\n<p>ho provato anche con json.loads, ma sempre lo stesso problema</p>\n"
+        },
+        {
+            "tags": [
+                "python",
+                "mysql",
+                "mysql-python",
+                "mysql-connector",
+                "mysql-connector-python"
+            ],
+            "owner": {
+                "account_id": 28705758,
+                "reputation": 1,
+                "user_id": 21982132,
+                "user_type": "registered",
+                "profile_image": "https://lh3.googleusercontent.com/a/AAcHTtcK8NRAwUuXgbn9nMoKVWCVupPb4Iol6dU0Tbao=k-s256",
+                "display_name": "HanzoSwitch",
+                "link": "https://stackoverflow.com/users/21982132/hanzoswitch"
+            },
+            "comment_count": 0,
+            "is_answered": false,
+            "view_count": 7,
+            "closed_date": 1685401350,
+            "answer_count": 0,
+            "score": 0,
+            "last_activity_date": 1685399764,
+            "creation_date": 1685399764,
+            "question_id": 76360663,
+            "share_link": "https://stackoverflow.com/q/76360663/14467927",
+            "link": "https://stackoverflow.com/questions/76360663/python-mysql-connector-caching-sha2-password-authentication-plugin-not-suppor",
+            "closed_reason": "Duplicate",
+            "title": "Python MySQL Connector: &#39;caching_sha2_password&#39; authentication plugin not supported",
+            "body": "<p>That is the exact error:</p>\n<pre><code>Traceback (most recent call last):\n  File &quot;D:\\Programming projects\\Project.py&quot;, line 3, in &lt;module&gt;\n    db = mysql.connector.connect(\n  File &quot;C:\\Users\\BboyM\\venv\\lib\\site-packages\\mysql\\connector\\__init__.py&quot;, line 179, in connect\n    return MySQLConnection(*args, **kwargs)\n  File &quot;C:\\Users\\BboyM\\venv\\lib\\site-packages\\mysql\\connector\\connection.py&quot;, line 95, in __init__\n    self.connect(**kwargs)\n  File &quot;C:\\Users\\BboyM\\venv\\lib\\site-packages\\mysql\\connector\\abstracts.py&quot;, line 716, in connect\n    self._open_connection()\n  File &quot;C:\\Users\\BboyM\\venv\\lib\\site-packages\\mysql\\connector\\connection.py&quot;, line 208, in _open_connection\n    self._do_auth(self._user, self._password,\n  File &quot;C:\\Users\\BboyM\\venv\\lib\\site-packages\\mysql\\connector\\connection.py&quot;, line 137, in _do_auth\n    packet = self._protocol.make_auth(\n  File &quot;C:\\Users\\BboyM\\venv\\lib\\site-packages\\mysql\\connector\\protocol.py&quot;, line 99, in make_auth\n    packet += self._auth_response(client_flags, username, password,\n  File &quot;C:\\Users\\BboyM\\venv\\lib\\site-packages\\mysql\\connector\\protocol.py&quot;, line 58, in _auth_response\n    auth = get_auth_plugin(auth_plugin)(\n  File &quot;C:\\Users\\BboyM\\venv\\lib\\site-packages\\mysql\\connector\\authentication.py&quot;, line 190, in get_auth_plugin\n    raise errors.NotSupportedError(\nmysql.connector.errors.NotSupportedError: Authentication plugin 'caching_sha2_password' is not supported\n\nProcess finished with exit code 1\n</code></pre>\n<p>That is the code for now, can't even start doing anything because I can't connect.</p>\n<pre><code>import mysql.connector\ndb = mysql.connector.connect(\n    host=(&quot;localhost&quot;),\n    user=(&quot;root&quot;),\n    passwd=(&quot;0QDeaWSzcXfgH0&quot;),\n)\n</code></pre>\n<p>I've tried reinstalling the connector plugins in pip, in Pycharm and changing the authentication method to legacy and nothing seems to work. I'm desperate for help because I can't find the solution that works anywhere. I even downloaded conda and tried instaling the connector with it instead of pip but that didn't help either.</p>\n"
+        },
+        {
+            "tags": [
+                "python",
+                "mysql",
+                "stored-procedures",
+                "sqlalchemy"
+            ],
+            "comments": [
+                {
+                    "owner": {
+                        "account_id": 6156261,
+                        "reputation": 12524,
+                        "user_id": 4799172,
+                        "user_type": "registered",
+                        "accept_rate": 94,
+                        "profile_image": "https://i.stack.imgur.com/6VQlo.jpg?s=256&g=1",
+                        "display_name": "roganjosh",
+                        "link": "https://stackoverflow.com/users/4799172/roganjosh"
+                    },
+                    "edited": false,
+                    "score": 0,
+                    "post_type": "question",
+                    "creation_date": 1685302981,
+                    "post_id": 76353265,
+                    "comment_id": 134639464,
+                    "content_license": "CC BY-SA 4.0",
+                    "link": "https://stackoverflow.com/questions/76353265/sqlalchemy-call-mysql-procedure-to-read-the-multiple-results#comment134639464_76353265",
+                    "body": "I would suspect it might be something to do with <code>async</code> here. But, you&#39;d get a whole lot more info if you <code>import traceback</code> and then use <code>print(traceback.format_exc())</code> inside the exception, rather than just <code>print(e)</code>"
+                }
+            ],
+            "answers": [
+                {
+                    "owner": {
+                        "account_id": 2320055,
+                        "reputation": 5808,
+                        "user_id": 2036070,
+                        "user_type": "registered",
+                        "profile_image": "https://i.stack.imgur.com/WSLZ4.jpg?s=256&g=1",
+                        "display_name": "Ian Wilson",
+                        "link": "https://stackoverflow.com/users/2036070/ian-wilson"
+                    },
+                    "comment_count": 0,
+                    "accepted": false,
+                    "is_accepted": false,
+                    "score": 0,
+                    "last_activity_date": 1685417941,
+                    "creation_date": 1685417941,
+                    "answer_id": 76361476,
+                    "question_id": 76353265,
+                    "content_license": "CC BY-SA 4.0",
+                    "title": "sqlalchemy call mysql procedure to read the multiple results",
+                    "body": "<p>I don't use <code>mysql</code> but I think you need to declare <code>OUT</code> variables.</p>\n<p>Then seems like you could use a join to return the result from a single query.</p>\n<p>Maybe like this:</p>\n<pre class=\"lang-sql prettyprint-override\"><code>CREATE DEFINER=`test`@`%` PROCEDURE `data`.`create_user`(\n    IN p_account VARCHAR(255),\n    OUT user_id BIGINT UNSIGNED,\n    OUT account VARCHAR(255),\n    OUT created_name VARCHAR(255)\n)\n...\nSELECT data.user_info.user_id, data.user_info.account, data.user_info.user_setting.created_name INTO user_id, account, created_name FROM data.user_info JOIN data.user_setting ON data.user_info.user_id = data.user_setting WHERE data.user_info.user_id = v_user_id;\n</code></pre>\n"
+                }
+            ],
+            "owner": {
+                "account_id": 12800181,
+                "reputation": 353,
+                "user_id": 9261745,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/ef6fac4a99d3b8f6f0e86045807dfcec?s=256&d=identicon&r=PG&f=y&so-version=2",
+                "display_name": "Youshikyou",
+                "link": "https://stackoverflow.com/users/9261745/youshikyou"
+            },
+            "comment_count": 1,
+            "is_answered": false,
+            "view_count": 35,
+            "answer_count": 1,
+            "score": 1,
+            "last_activity_date": 1685417941,
+            "creation_date": 1685302067,
+            "question_id": 76353265,
+            "share_link": "https://stackoverflow.com/q/76353265/14467927",
+            "link": "https://stackoverflow.com/questions/76353265/sqlalchemy-call-mysql-procedure-to-read-the-multiple-results",
+            "title": "sqlalchemy call mysql procedure to read the multiple results",
+            "body": "<p>I am trying to get the multiple results from procedure in mysql by using sqlalchemy in python.</p>\n<pre><code>async def create_user(db: AsyncSession, user: UserInfo):\n    try:\n        result_proxy = await db.execute(\n            text(&quot;CALL create_user(:account)&quot;), \n            {\n                &quot;account&quot;: user.account\n            }\n        )\n        logging.info(&quot;result_proxy: %s&quot;, result_proxy)\n        # Fetch the first result set\n        db_user = result_proxy.fetchone()\n\n        logging.info(&quot;db_user: %s&quot;, db_user)\n        \n        # Move to the next result set\n        if result_proxy.nextset():\n            # Fetch the second result set\n            db_user_setting = result_proxy.fetchone()\n            logging.info(&quot;db_user_setting: %s&quot;, db_user_setting)\n        else:\n            db_user_setting = None\n\n    except SQLAlchemyError as e:\n        logging.error(&quot;Error creating user: %s&quot;, e)\n        await db.rollback()\n        raise HTTPException(status_code=500, detail=&quot;Database creating user failed.&quot;)\n\n    return db_user, db_user_setting\n</code></pre>\n<p>mysql procedure code is</p>\n<pre><code>CREATE DEFINER=`test`@`%` PROCEDURE `data`.`create_user`(\n    IN p_account VARCHAR(255)\n)\nBEGIN\n    DECLARE v_user_id VARCHAR(255);\n \n    DECLARE EXIT HANDLER FOR SQLEXCEPTION\n    BEGIN\n        -- Rollback the transaction in case of an error\n        ROLLBACK;\n    END;\n\n    SET v_user_id = UUID_SHORT();\n       \n    START TRANSACTION;\n    \n    INSERT INTO data.user_info (\n        account,\n        user_id\n    )\n    VALUES(\n        p_account,\n        v_user_id\n    );\n\n    INSERT INTO data.user_setting (\n        user_id,\n        created_name\n    )\n    VALUES(\n        v_user_id,\n        'Javis'\n    );\n    \n    COMMIT;\n   \n    -- Select the newly created records to return them as a result set\n    SELECT * FROM data.user_info WHERE user_id = v_user_id;\n    SELECT * FROM data.user_setting  WHERE user_id = v_user_id;\n   \nEND\n</code></pre>\n<p>I don't know why I got <code>Error creating user: This result object does not return rows. It has been closed automatically.</code> I run the procedure in the mysql script, it can create the row in the tables successfully.\nWould you mind giving me some advices?</p>\n<p>Best regards</p>\n"
+        },
+        {
+            "tags": [
+                "python",
+                "mysql",
+                "jenkins"
+            ],
+            "owner": {
+                "account_id": 24859664,
+                "reputation": 1,
+                "user_id": 18735595,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/7b694731bb57c441ae78aecd0359a151?s=256&d=identicon&r=PG",
+                "display_name": "Alexandr Savitsky",
+                "link": "https://stackoverflow.com/users/18735595/alexandr-savitsky"
+            },
+            "comment_count": 0,
+            "is_answered": false,
+            "view_count": 8,
+            "closed_date": 1685288823,
+            "answer_count": 0,
+            "score": 0,
+            "last_activity_date": 1685290938,
+            "creation_date": 1685286729,
+            "last_edit_date": 1685290938,
+            "question_id": 76352149,
+            "share_link": "https://stackoverflow.com/q/76352149/14467927",
+            "link": "https://stackoverflow.com/questions/76352149/why-cant-my-jenkins-pipeline-connect-to-mysql-localhostwindows-os",
+            "closed_reason": "Duplicate",
+            "title": "Why can&#39;t my jenkins pipeline connect to mysql localhost(windows os)?",
+            "body": "<p>I have a Jenkins pipeline that utilizes unit tests in my project. I am using a MySQL database, but I encountered the following error:</p>\n<p>mysql.connector.errors.DatabaseError: 2003 (HY000): Can't connect to MySQL server on '127.0.0.1:3306' (111)</p>\n<p>I'm unsure how to configure my local host database on windows for this pipeline.</p>\n<p>Please, could you help me?</p>\n<p>Jenkins file</p>\n<pre><code>pipeline {\n    agent {\n        docker {\n            image 'python:3.8.7'\n            args '-u root'\n        }\n    }\n    stages {\n        stage('Checkout') {\n            steps {\n                checkout scm\n            }\n        }\n        stage('Install dependencies') {\n            steps {\n                sh 'pip install -r requirements.txt'\n            }\n        }\n        stage('Run tests') {\n            steps {\n                sh 'python -m unittest discover -s tests'\n            }\n        }\n.....\n</code></pre>\n<p>db.py file (where the database configurations)</p>\n<pre><code>class Db:\n    def __init__(self):\n        # Connect to the MySQL database\n        load_dotenv()\n        host, user, password, database = os.getenv('HOST'), os.getenv('USER'), os.getenv('PASSWORD'), os.getenv(\n            'DATABASE')\n\n        self.mydb = mysql.connector.connect(\n            host=host,\n            user=user,\n            password=password,\n            database=database\n        )\n        lg.info('db connect great success')\n        self.cursor = self.mydb.cursor()\n</code></pre>\n<p>I tried to modify the my.ini file, restart the server, and build the Jenkins file that only connects to the MySQL server.</p>\n"
+        },
+        {
+            "tags": [
+                "python",
+                "sql",
+                "mysql",
+                "sql-injection",
+                "code-injection"
+            ],
+            "owner": {
+                "account_id": 27746054,
+                "reputation": 1,
+                "user_id": 21181535,
+                "user_type": "registered",
+                "profile_image": "https://lh3.googleusercontent.com/a/AEdFTp5ZUbkFFzjj1enZQoV22f8r1_n2eEwgkQZbmTlx=k-s256",
+                "display_name": "BRN",
+                "link": "https://stackoverflow.com/users/21181535/brn"
+            },
+            "comment_count": 0,
+            "is_answered": false,
+            "view_count": 15,
+            "closed_date": 1685203521,
+            "answer_count": 0,
+            "score": 0,
+            "last_activity_date": 1685203438,
+            "creation_date": 1685203438,
+            "question_id": 76347782,
+            "share_link": "https://stackoverflow.com/q/76347782/14467927",
+            "link": "https://stackoverflow.com/questions/76347782/what-are-some-effective-strategies-for-mitigating-sql-injection-attacks-in-pytho",
+            "closed_reason": "Duplicate",
+            "title": "What are some effective strategies for mitigating SQL injection attacks in Python?",
+            "body": "<p>My current code is testing a SQL injection mitigation test cases using python. The code posted is only a small section of the entire project. The purpose of this code is to test different methods of mitigating SQL injection attacks. However, I would like to know how I can make the code better.</p>\n<pre><code>def test_comments():\n    username = &quot;Safeguard1234&quot;\n    password = &quot;Myspace1234'; INSERT INTO passwordList(name, passwd) VALUES 'myspace1234', 'nine&quot;\n\n    sql = gen_query(username, password)\n    print(sql)\n\n    sql = gen_query_weak(username, password)\n    print(&quot;Weak Mitigated SQL: &quot; + sql)\n    sql = gen_query_strong(username, password)\n    print(&quot;Strong Mitigated SQL: &quot; + sql)\n\n</code></pre>\n"
+        },
+        {
+            "tags": [
+                "python",
+                "sql",
+                "mysql"
+            ],
+            "answers": [
+                {
+                    "owner": {
+                        "account_id": 8386526,
+                        "reputation": 5237,
+                        "user_id": 6296759,
+                        "user_type": "registered",
+                        "profile_image": "https://www.gravatar.com/avatar/5460cfb010daca5ea9644e0c92e84d5e?s=256&d=identicon&r=PG&f=y&so-version=2",
+                        "display_name": "nacho",
+                        "link": "https://stackoverflow.com/users/6296759/nacho"
+                    },
+                    "comment_count": 0,
+                    "accepted": false,
+                    "is_accepted": false,
+                    "score": 1,
+                    "last_activity_date": 1685120886,
+                    "creation_date": 1685120886,
+                    "answer_id": 76342978,
+                    "question_id": 76342107,
+                    "content_license": "CC BY-SA 4.0",
+                    "title": "What does &#39;Truncated incorrect DOUBLE value&#39; error mean in MySQL Connector with Python and how do I fix it?",
+                    "body": "<p>You have wrong order in your data:</p>\n<pre><code>def update function(emp_id, emp_name, emp_last_name, emp_email, emp_status):\n    emp_data = mysqlconn.cursor()\n    sql_update_query = &quot;UPDATE employee set emp_name = %s, emp_last_name = %s, emp_email = %s, emp_status = %s WHERE emp_id = %s&quot;\n    updated_data = ( emp_name, emp_last_name, emp_email, emp_status, emp_id)\n    emp_data.execute(sql_update_query,updated_data)\n    mysqlconn.commit()\n    print(&quot;Data Updated&quot;)\n</code></pre>\n<p>The placeholder for emp_id is the last one, but you have your value in first position, so you need to change it. Also I removed some brackets not needed and some comma</p>\n"
+                }
+            ],
+            "owner": {
+                "account_id": 11460695,
+                "reputation": 9,
+                "user_id": 8400433,
+                "user_type": "registered",
+                "profile_image": "https://graph.facebook.com/1281838771941533/picture?type=large",
+                "display_name": "Kais Al Kaisy",
+                "link": "https://stackoverflow.com/users/8400433/kais-al-kaisy"
+            },
+            "comment_count": 0,
+            "is_answered": true,
+            "view_count": 32,
+            "closed_date": 1685180224,
+            "answer_count": 1,
+            "score": 0,
+            "last_activity_date": 1685139972,
+            "creation_date": 1685114055,
+            "last_edit_date": 1685139972,
+            "question_id": 76342107,
+            "share_link": "https://stackoverflow.com/q/76342107/14467927",
+            "link": "https://stackoverflow.com/questions/76342107/what-does-truncated-incorrect-double-value-error-mean-in-mysql-connector-with",
+            "closed_reason": "Not suitable for this site",
+            "title": "What does &#39;Truncated incorrect DOUBLE value&#39; error mean in MySQL Connector with Python and how do I fix it?",
+            "body": "<p>First ERROR message:</p>\n<pre><code>mysql.connector.errors.DataError: 1292 (22007): Truncated incorrect DOUBLE value:\n\n\\----------------------------------------------------------------------------------------------\n</code></pre>\n<p>I have tried several times to find a solution online and have seen other users who have had the same problem.</p>\n<p>Unfortunately, it hasn't solved my problem yet.\nI've Googled to find a solution similar to my problem and that hasn't helped either.</p>\n<p>Okay, the problem is that I keep getting errors from pycharm which are as follows</p>\n<pre><code>mysql.connector.errors.DataError: 1292 (22007): Truncated incorrect DOUBLE value:\n</code></pre>\n<p>What does this mean specifically?</p>\n<p>Is there something wrong with my database?</p>\n<p>What is it?</p>\n<p>Here is my table that I have created:</p>\n<pre><code>CREATE TABLE `employee` (\n    `emp_id` INTEGER NOT NULL,\n    `emp_name` VARCHAR (17) NOT NULL,\n    `emp_last_name` VARCHAR (17) NOT NULL,\n    `emp_email` VARCHAR (17) NOT NULL,\n    `emp_status` VARCHAR (17) NOT NULL,\n    PRIMARY KEY (`emp_id`)\n);\n</code></pre>\n<p>And I want to update a user with python.</p>\n<p>The coding is as follows:</p>\n<pre><code>def update function(emp_id, emp_name, emp_last_name, emp_email, emp_status):\n    emp_data = mysqlconn.cursor()\n    sql_update_query = (&quot;UPDATE employee set emp_name = %s, emp_last_name = %s, emp_email = %s, emp_status = %s WHERE emp_id = %s&quot;)\n    updated_data = (emp_id, emp_name, emp_last_name, emp_email, emp_status)\n    emp_data.execute(sql_update_query,updated_data,)\n    mysqlconn.commit()\n    print(&quot;Data Updated&quot;)\n</code></pre>\n<p>I don't see any syntax errors.</p>\n<ul>\n<li><p>Have seen other solutions on Stackoverflow that are similar to my problem.</p>\n<p>Have Googled my way with the Error coding.</p>\n<p>Changed my table on mysql.</p>\n</li>\n</ul>\n"
+        },
+        {
+            "tags": [
+                "python",
+                "mysql",
+                "pyinstaller",
+                "importerror"
+            ],
+            "owner": {
+                "account_id": 22086227,
+                "reputation": 1,
+                "user_id": 16345034,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/37164ac41e2fb449ff3f485491a06afa?s=256&d=identicon&r=PG&f=y&so-version=2",
+                "display_name": "Hatim Neral",
+                "link": "https://stackoverflow.com/users/16345034/hatim-neral"
+            },
+            "comment_count": 0,
+            "is_answered": false,
+            "view_count": 11,
+            "answer_count": 0,
+            "score": -1,
+            "last_activity_date": 1685082859,
+            "creation_date": 1685082859,
+            "question_id": 76338190,
+            "share_link": "https://stackoverflow.com/q/76338190/14467927",
+            "link": "https://stackoverflow.com/questions/76338190/pyinstaller-and-cloud-are-having-some-problem",
+            "title": "pyinstaller and cloud are having some problem",
+            "body": "<p>i have a python file and I want to convert it to .exe file, I've used mysql.connector module also to connect python and mysql. but for some reason after compiling the file and converting it to .exe file with pyinstaller I get this error:-\n&quot;ImportError: No localization support for language 'eng'&quot;\nI've attached a ss also of the whole error\nanyone can please help me in this\nit shows that there is a mysql import error\nthankyou</p>\n"
+        },
+        {
+            "tags": [
+                "python",
+                "mysql",
+                "connection"
+            ],
+            "comments": [
+                {
+                    "owner": {
+                        "account_id": 1613587,
+                        "reputation": 731500,
+                        "user_id": 1491895,
+                        "user_type": "registered",
+                        "accept_rate": 69,
+                        "profile_image": "https://www.gravatar.com/avatar/82f9e178a16364bf561d0ed4da09a35d?s=256&d=identicon&r=PG",
+                        "display_name": "Barmar",
+                        "link": "https://stackoverflow.com/users/1491895/barmar"
+                    },
+                    "edited": false,
+                    "score": 0,
+                    "post_type": "question",
+                    "creation_date": 1685036202,
+                    "post_id": 76334908,
+                    "comment_id": 134608756,
+                    "content_license": "CC BY-SA 4.0",
+                    "link": "https://stackoverflow.com/questions/76334908/database-connection-error-while-connecting-mysql-through-python#comment134608756_76334908",
+                    "body": "Then you haven&#39;t installed mysql connector properly."
+                },
+                {
+                    "owner": {
+                        "account_id": 15068871,
+                        "reputation": 76,
+                        "user_id": 10875076,
+                        "user_type": "registered",
+                        "profile_image": "https://www.gravatar.com/avatar/36a95bfb47b59f68f1a38ea3bbb6fd15?s=256&d=identicon&r=PG",
+                        "display_name": "Jish",
+                        "link": "https://stackoverflow.com/users/10875076/jish"
+                    },
+                    "edited": false,
+                    "score": 0,
+                    "post_type": "question",
+                    "creation_date": 1685071185,
+                    "post_id": 76334908,
+                    "comment_id": 134613124,
+                    "content_license": "CC BY-SA 4.0",
+                    "link": "https://stackoverflow.com/questions/76334908/database-connection-error-while-connecting-mysql-through-python#comment134613124_76334908",
+                    "body": "Install mysql connector properly, <code>pip install mysql-connector-python</code>"
+                },
+                {
+                    "owner": {
+                        "account_id": -1,
+                        "reputation": 1,
+                        "user_id": -1,
+                        "user_type": "moderator",
+                        "profile_image": "https://www.gravatar.com/avatar/a007be5a61f6aa8f3e85ae2fc18dd66e?s=256&d=identicon&r=PG",
+                        "display_name": "Community",
+                        "link": "https://stackoverflow.com/users/-1/community"
+                    },
+                    "edited": false,
+                    "score": 0,
+                    "post_type": "question",
+                    "creation_date": 1685075101,
+                    "post_id": 76334908,
+                    "comment_id": 134613430,
+                    "content_license": "CC BY-SA 4.0",
+                    "link": "https://stackoverflow.com/questions/76334908/database-connection-error-while-connecting-mysql-through-python#comment134613430_76334908",
+                    "body": "Please provide enough code so others can better understand or reproduce the problem."
+                },
+                {
+                    "owner": {
+                        "account_id": 25746969,
+                        "reputation": 1,
+                        "user_id": 19500045,
+                        "user_type": "registered",
+                        "profile_image": "https://www.gravatar.com/avatar/3b4b65a56b6f7c11508596a92159a183?s=256&d=identicon&r=PG",
+                        "display_name": "Anaveer",
+                        "link": "https://stackoverflow.com/users/19500045/anaveer"
+                    },
+                    "reply_to_user": {
+                        "account_id": 15068871,
+                        "reputation": 76,
+                        "user_id": 10875076,
+                        "user_type": "registered",
+                        "profile_image": "https://www.gravatar.com/avatar/36a95bfb47b59f68f1a38ea3bbb6fd15?s=256&d=identicon&r=PG",
+                        "display_name": "Jish",
+                        "link": "https://stackoverflow.com/users/10875076/jish"
+                    },
+                    "edited": false,
+                    "score": 0,
+                    "post_type": "question",
+                    "creation_date": 1685076961,
+                    "post_id": 76334908,
+                    "comment_id": 134613614,
+                    "content_license": "CC BY-SA 4.0",
+                    "link": "https://stackoverflow.com/questions/76334908/database-connection-error-while-connecting-mysql-through-python#comment134613614_76334908",
+                    "body": "@Jish I ran that command but it didn&#39;t work"
+                },
+                {
+                    "owner": {
+                        "account_id": 15068871,
+                        "reputation": 76,
+                        "user_id": 10875076,
+                        "user_type": "registered",
+                        "profile_image": "https://www.gravatar.com/avatar/36a95bfb47b59f68f1a38ea3bbb6fd15?s=256&d=identicon&r=PG",
+                        "display_name": "Jish",
+                        "link": "https://stackoverflow.com/users/10875076/jish"
+                    },
+                    "edited": false,
+                    "score": 0,
+                    "post_type": "question",
+                    "creation_date": 1685077332,
+                    "post_id": 76334908,
+                    "comment_id": 134613662,
+                    "content_license": "CC BY-SA 4.0",
+                    "link": "https://stackoverflow.com/questions/76334908/database-connection-error-while-connecting-mysql-through-python#comment134613662_76334908",
+                    "body": "What is the error you are getting when run the <code>pip install</code> command?"
+                },
+                {
+                    "owner": {
+                        "account_id": 4632159,
+                        "reputation": 66,
+                        "user_id": 3754390,
+                        "user_type": "registered",
+                        "profile_image": "https://www.gravatar.com/avatar/2c47008d5f28398d43a3ca995c21c7d9?s=256&d=identicon&r=PG&f=y&so-version=2",
+                        "display_name": "jwill",
+                        "link": "https://stackoverflow.com/users/3754390/jwill"
+                    },
+                    "edited": false,
+                    "score": 0,
+                    "post_type": "question",
+                    "creation_date": 1685710677,
+                    "post_id": 76334908,
+                    "comment_id": 134703103,
+                    "content_license": "CC BY-SA 4.0",
+                    "link": "https://stackoverflow.com/questions/76334908/database-connection-error-while-connecting-mysql-through-python#comment134703103_76334908",
+                    "body": "Can you go to the terminal and input <code>pip list</code> &amp; show us the results?"
+                }
+            ],
+            "owner": {
+                "account_id": 25746969,
+                "reputation": 1,
+                "user_id": 19500045,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/3b4b65a56b6f7c11508596a92159a183?s=256&d=identicon&r=PG",
+                "display_name": "Anaveer",
+                "link": "https://stackoverflow.com/users/19500045/anaveer"
+            },
+            "comment_count": 6,
+            "is_answered": false,
+            "view_count": 18,
+            "answer_count": 0,
+            "score": 0,
+            "last_activity_date": 1685041256,
+            "creation_date": 1685035802,
+            "last_edit_date": 1685041256,
+            "question_id": 76334908,
+            "share_link": "https://stackoverflow.com/q/76334908/14467927",
+            "link": "https://stackoverflow.com/questions/76334908/database-connection-error-while-connecting-mysql-through-python",
+            "title": "Database Connection error while connecting MySQL through Python",
+            "body": "<pre><code>import mysql.connector\n</code></pre>\n<blockquote>\n<p>ModuleNotFoundError: No module named 'mysql'</p>\n</blockquote>\n<p>No matter how many commands I fire, it is still showing this error and I have not named my file as mysql.py</p>\n<p>Please tell me which version I need to install</p>\n"
+        },
+        {
+            "tags": [
+                "python",
+                "mysql",
+                "frameworks"
+            ],
+            "owner": {
+                "account_id": 26975427,
+                "reputation": 1,
+                "user_id": 20540744,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/8ba6393582f673de93dcf0760b2cbf04?s=256&d=identicon&r=PG&f=y&so-version=2",
+                "display_name": "Berk Yavuz",
+                "link": "https://stackoverflow.com/users/20540744/berk-yavuz"
+            },
+            "comment_count": 0,
+            "is_answered": false,
+            "view_count": 20,
+            "answer_count": 0,
+            "score": 0,
+            "last_activity_date": 1685017376,
+            "creation_date": 1685015572,
+            "last_edit_date": 1685017376,
+            "question_id": 76331968,
+            "share_link": "https://stackoverflow.com/q/76331968/14467927",
+            "link": "https://stackoverflow.com/questions/76331968/python-mysql-connector-framework-mysql-connector-integrityerror",
+            "title": "Python mysql.connector framework mysql.connector.IntegrityError",
+            "body": "<pre><code>def register(self,kuladi,sifre):\n        self.mydb = mysql.connector.connect(host=&quot;localhost&quot;, user=&quot;root&quot;, password=&quot;berk1907&quot;, database=&quot;kivy_user_db&quot;)\n        self.cursor = self.mydb.cursor()\n\n        sql = &quot;INSERT INTO users(name,password) VALUES (%s, %s)&quot;\n\n        self.controlled = True\n        self.controlled = self.controlname(kuladi)\n\n        values = (str(kuladi),str(sifre))\n        self.cursor.execute(sql, values)\n\n        try:\n            if kuladi is not None and sifre is not None and self.controlled == True:\n                self.mydb.commit()\n            elif self.controlled == False:\n                return print(&quot;Zaten Var Olan Kullanıcı.&quot;)\n        except Exception as Ex:\n            print(Ex)\n            pass\n        finally:\n            self.mydb.close()\n</code></pre>\n<p>it's my func i get this error but i just wanna a print(&quot;Zaten Var Olan Kullanıcı&quot;)</p>\n<pre><code>   File &quot;C:\\Users\\beek6\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mysql\\connector\\connection_cext.py&quot;, line 611, in cmd_query\n     self._cmysql.query(\n _mysql_connector.MySQLInterfaceError: Duplicate entry 'berk' for key 'users.name_UNIQUE'\n\n The above exception was the direct cause of the following exception:\n\n Traceback (most recent call last):\n   File &quot;c:\\Users\\beek6\\PycharmProjects\\Kivy\\kivyapp\\main.py&quot;, line 72, in &lt;module&gt;\n     Window().run()\n   File &quot;C:\\Users\\beek6\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\kivy\\app.py&quot;, line 956, in run\n     runTouchApp()\n   File &quot;C:\\Users\\beek6\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\kivy\\base.py&quot;, line 574, in runTouchApp       \n     EventLoop.mainloop()\n   File &quot;C:\\Users\\beek6\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\kivy\\base.py&quot;, line 339, in mainloop\n     self.idle()\n   File &quot;C:\\Users\\beek6\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\kivy\\base.py&quot;, line 383, in idle\n     self.dispatch_input()\n   File &quot;C:\\Users\\beek6\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\kivy\\base.py&quot;, line 334, in dispatch_input    \n     post_dispatch_input(*pop(0))\n   File &quot;C:\\Users\\beek6\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\kivy\\base.py&quot;, line 302, in post_dispatch_input\n     wid.dispatch('on_touch_up', me)\n   File &quot;kivy\\_event.pyx&quot;, line 731, in kivy._event.EventDispatcher.dispatch\n   File &quot;C:\\Users\\beek6\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\kivy\\uix\\behaviors\\button.py&quot;, line 179, in on_touch_up\n     self.dispatch('on_release')\n   File &quot;kivy\\_event.pyx&quot;, line 727, in kivy._event.EventDispatcher.dispatch\n   File &quot;kivy\\_event.pyx&quot;, line 1307, in kivy._event.EventObservers.dispatch\n   File &quot;kivy\\_event.pyx&quot;, line 1191, in kivy._event.EventObservers._dispatch\n   File &quot;C:\\Users\\beek6\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\kivy\\lang\\builder.py&quot;, line 55, in custom_callback\n     exec(__kvlang__.co_value, idmap)\n   File &quot;c:\\Users\\beek6\\PycharmProjects\\Kivy\\kivyapp\\main.kv&quot;, line 32, in &lt;module&gt;\n     on_release: app.register(username_input.text, password_input.text)\n ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n   File &quot;c:\\Users\\beek6\\PycharmProjects\\Kivy\\kivyapp\\main.py&quot;, line 42, in register\n     self.cursor.execute(sql, values)\n   File &quot;C:\\Users\\beek6\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mysql\\connector\\cursor_cext.py&quot;, line 330, in execute\n     result = self._cnx.cmd_query(\n              ^^^^^^^^^^^^^^^^^^^^\n   File &quot;C:\\Users\\beek6\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mysql\\connector\\connection_cext.py&quot;, line 619, in cmd_query\n     raise get_mysql_exception(\n mysql.connector.errors.IntegrityError: 1062 (23000): Duplicate entry 'berk' for key 'users.name_UNIQUE'\n</code></pre>\n<p>But i get this error everytime.\nI tried except mysql.connector.errors.IntegrityError: but doesn't work.\nWhat can i do for just call a print(&quot;Message&quot;) or don't close program.</p>\n"
+        },
+        {
+            "tags": [
+                "python",
+                "mysql",
+                "django",
+                "django-rest-framework"
+            ],
+            "comments": [
+                {
+                    "owner": {
+                        "account_id": 333224,
+                        "reputation": 3526,
+                        "user_id": 658976,
+                        "user_type": "registered",
+                        "accept_rate": 59,
+                        "profile_image": "https://www.gravatar.com/avatar/ad74977c8f5c5f15827a37a69afcd3f8?s=256&d=identicon&r=PG",
+                        "display_name": "Jisson",
+                        "link": "https://stackoverflow.com/users/658976/jisson"
+                    },
+                    "edited": false,
+                    "score": 2,
+                    "post_type": "question",
+                    "creation_date": 1684994354,
+                    "post_id": 76329033,
+                    "comment_id": 134599269,
+                    "content_license": "CC BY-SA 4.0",
+                    "link": "https://stackoverflow.com/questions/76329033/experience-auto-increment-according-to-doj#comment134599269_76329033",
+                    "body": "add a model function to calculate the experience, please post your model code to get better help, <a href=\"https://stackoverflow.com/questions/33307855/when-are-model-methods-called-in-django\" title=\"when are model methods called in django\">stackoverflow.com/questions/33307855/&hellip;</a>"
+                }
+            ],
+            "owner": {
+                "account_id": 28407323,
+                "reputation": 1,
+                "user_id": 21731162,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/989ef71ea7d79645a47480238257c09c?s=256&d=identicon&r=PG&f=y&so-version=2",
+                "display_name": "Bhargav",
+                "link": "https://stackoverflow.com/users/21731162/bhargav"
+            },
+            "comment_count": 1,
+            "is_answered": false,
+            "view_count": 22,
+            "closed_date": 1685693159,
+            "answer_count": 0,
+            "score": -2,
+            "last_activity_date": 1684990351,
+            "creation_date": 1684990351,
+            "question_id": 76329033,
+            "share_link": "https://stackoverflow.com/q/76329033/14467927",
+            "link": "https://stackoverflow.com/questions/76329033/experience-auto-increment-according-to-doj",
+            "closed_reason": "Needs details or clarity",
+            "title": "Experience auto increment according to DOJ",
+            "body": "<p>I have DOJ (Date of Joining) in my Django models and also i have Experience field in my models so according to my DOJ my experience should change daily automatically.\nThis should be done in Django Could anyone please help me on this\nThanks in advance</p>\n"
+        },
+        {
+            "tags": [
+                "python",
+                "mysql",
+                "sqlalchemy",
+                "foreign-keys"
+            ],
+            "comments": [
+                {
+                    "owner": {
+                        "account_id": 4094210,
+                        "reputation": 5997,
+                        "user_id": 3361462,
+                        "user_type": "registered",
+                        "profile_image": "https://www.gravatar.com/avatar/ed5fe4ce9c6baef0f49fce12f6448fc9?s=256&d=identicon&r=PG&f=y&so-version=2",
+                        "display_name": "kosciej16",
+                        "link": "https://stackoverflow.com/users/3361462/kosciej16"
+                    },
+                    "edited": false,
+                    "score": 1,
+                    "post_type": "question",
+                    "creation_date": 1684931197,
+                    "post_id": 76323458,
+                    "comment_id": 134589165,
+                    "content_license": "CC BY-SA 4.0",
+                    "link": "https://stackoverflow.com/questions/76323458/foreign-key-in-one-table-has-a-null-value-for-the-id-of-the-other-table#comment134589165_76323458",
+                    "body": "What apartment id would you expect? You don&#39;t assign any in your code."
+                },
+                {
+                    "owner": {
+                        "account_id": 4151902,
+                        "reputation": 14777,
+                        "user_id": 3404097,
+                        "user_type": "registered",
+                        "profile_image": "https://www.gravatar.com/avatar/ec24a4fbe284c5379ba108a58a13fe8f?s=256&d=identicon&r=PG&f=y&so-version=2",
+                        "display_name": "philipxy",
+                        "link": "https://stackoverflow.com/users/3404097/philipxy"
+                    },
+                    "edited": false,
+                    "score": 0,
+                    "post_type": "question",
+                    "creation_date": 1684934865,
+                    "post_id": 76323458,
+                    "comment_id": 134590188,
+                    "content_license": "CC BY-SA 4.0",
+                    "link": "https://stackoverflow.com/questions/76323458/foreign-key-in-one-table-has-a-null-value-for-the-id-of-the-other-table#comment134590188_76323458",
+                    "body": "Debug questions require a <a href=\"https://stackoverflow.com/help/minimal-reproducible-example\">minimal reproducible example</a>--cut &amp; paste &amp; runnable code including initialization; desired &amp; actual output (including verbatim error messages); tags &amp; versions; clear specification &amp; explanation. For SQL include DDL &amp; tabular initialization code. For debug that includes the least code you can give that is code that you show is OK extended by code that you show is not OK. <a href=\"https://stackoverflow.com/questions/how-to-ask\">How to Ask</a> <a href=\"https://stackoverflow.com/help\">Help center</a> When you get a result you don&#39;t expect, pause your overall goal, chop to the 1st subexpression with unexpected result &amp; say what you expected &amp; why, justified by documentation. (Debugging fundamental.)"
+                },
+                {
+                    "owner": {
+                        "account_id": 28670309,
+                        "reputation": 1,
+                        "user_id": 21953500,
+                        "user_type": "registered",
+                        "profile_image": "https://lh3.googleusercontent.com/a/AGNmyxbAvY6aa2uGMafasoTHqU5wmzPPDrxTxtfLKA8J=k-s256",
+                        "display_name": "Valentin",
+                        "link": "https://stackoverflow.com/users/21953500/valentin"
+                    },
+                    "edited": false,
+                    "score": 0,
+                    "post_type": "question",
+                    "creation_date": 1685017327,
+                    "post_id": 76323458,
+                    "comment_id": 134603995,
+                    "content_license": "CC BY-SA 4.0",
+                    "link": "https://stackoverflow.com/questions/76323458/foreign-key-in-one-table-has-a-null-value-for-the-id-of-the-other-table#comment134603995_76323458",
+                    "body": "I have fixed my problem by adding session.commit() in the <code>get_table_informations</code>, without commiting the FK, the foreign key wasn&#39;t taken account."
+                }
+            ],
+            "owner": {
+                "account_id": 28670309,
+                "reputation": 1,
+                "user_id": 21953500,
+                "user_type": "registered",
+                "profile_image": "https://lh3.googleusercontent.com/a/AGNmyxbAvY6aa2uGMafasoTHqU5wmzPPDrxTxtfLKA8J=k-s256",
+                "display_name": "Valentin",
+                "link": "https://stackoverflow.com/users/21953500/valentin"
+            },
+            "comment_count": 3,
+            "is_answered": false,
+            "view_count": 42,
+            "answer_count": 0,
+            "score": -1,
+            "last_activity_date": 1684934810,
+            "creation_date": 1684930721,
+            "last_edit_date": 1684934810,
+            "question_id": 76323458,
+            "share_link": "https://stackoverflow.com/q/76323458/14467927",
+            "link": "https://stackoverflow.com/questions/76323458/foreign-key-in-one-table-has-a-null-value-for-the-id-of-the-other-table",
+            "title": "foreign key in one table has a NULL value for the ID of the other table",
+            "body": "<p>The foreign key ('flat_id') in the <code>Pictures</code> table has a NULL value for the ID of the <code>Appartment</code> table. I'm working with SqlAlchemy and MySQL.</p>\n<p>What resolves this problem and ensures that the foreign key is properly associated with the ID of <code>Appartment</code>?</p>\n<p>My tables:</p>\n<pre><code>from sqlalchemy import Column, Integer, String, Text, ForeignKey, Float, create_engine, DateTime\nfrom sqlalchemy.orm import relationship, declarative_base, Mapped\n\nBase = declarative_base()\n\nclass Appartment(Base):\n    __tablename__ = 'appartment'\n\n    id = Column(Integer, primary_key=True, autoincrement=True)\n    name = Column(String(255))\n    price = Column(Integer)\n    ref = Column(String(20))\n    description = Column(Text)\n    square_meter = Column(Float)\n    address = Column(String(255))\n    postal_code = Column(Integer)\n    url = Column(String(255))\n    agency = Column(String(255))\n    phonenumber = Column(String(20))\n    created_at = Column(DateTime)\n    picture_table = relationship(&quot;Pictures&quot;, back_populates=&quot;appart_table&quot;, cascade=&quot;all, delete&quot;)\n\nclass Pictures(Base):\n    __tablename__ = 'pictures'\n\n    id = Column(Integer, primary_key=True)\n    flat_id = Column(Integer, ForeignKey('appartment.id', onupdate='CASCADE', ondelete='CASCADE'))\n    URL_picture = Column(Text)\n    appart_table = relationship(&quot;Appartment&quot;, back_populates=&quot;picture_table&quot;)\n</code></pre>\n<p>How I add scraped elements to my database:</p>\n<pre><code>def get_table_informations(url, session, pageHTML):\n    &quot;&quot;&quot; Get flat informations &quot;&quot;&quot;\n\n    ###\n    ... scrap code\n    ###\n\n    appart_table = Appartment(name=Name, description=Description, price=Price, ref=Ref, square_meter=Square_meter, address=address, postal_code=postalcode, url=url, agency=agence, phonenumber=PhoneNumber, created_at=created_at)\n    session.add(appart_table)\n    get_table_picture(url, session, pageHTML, appart_table)    \n\ndef get_table_picture(url, session, pageHTML, appart_table):\n    &quot;&quot;&quot; Get all pictures&quot;&quot;&quot;\n\n    ###\n    ... scrap code\n    ###\n\n    table_picture = Pictures(URL_picture=json.dumps(JSONpicture))\n    session.add(table_picture)\n\ndef get_allTables():\n    &quot;&quot;&quot; Scrap all information of all Flats &quot;&quot;&quot;\n    all_urlFlat = get_allPages()\n    for urlpage in all_urlFlat:\n        response = requests.get(urlpage)\n        pagesHTML = BeautifulSoup(response.content, &quot;html.parser&quot;)\n        get_table_informations(url=urlpage, session=session, pageHTML=pagesHTML)\n        session.commit() # Commit the changes to the database\n    session.close() # Close the current session\n\nget_allTables()\n</code></pre>\n"
+        },
+        {
+            "tags": [
+                "python",
+                "mysql",
+                "discord.py"
+            ],
+            "owner": {
+                "account_id": 24091897,
+                "reputation": 25,
+                "user_id": 18323078,
+                "user_type": "registered",
+                "profile_image": "https://i.stack.imgur.com/l1vhd.png?s=256&g=1",
+                "display_name": "Mersin Bakiu",
+                "link": "https://stackoverflow.com/users/18323078/mersin-bakiu"
+            },
+            "comment_count": 0,
+            "is_answered": false,
+            "view_count": 21,
+            "answer_count": 0,
+            "score": 0,
+            "last_activity_date": 1684859973,
+            "creation_date": 1684859973,
+            "question_id": 76316965,
+            "share_link": "https://stackoverflow.com/q/76316965/14467927",
+            "link": "https://stackoverflow.com/questions/76316965/discord-py-error-modal-py-ignoring-exception-in-modal-trainmodal-timeout-no",
+            "title": "Discord.py error : [modal.py] Ignoring exception in modal &lt;trainModal timeout=None children=1&gt;: (modal.py:164)",
+            "body": "<p>Appereantly this error has been bugging off to much lately for me.\nIt says it is ignoring an error but I get no intel on what the error is. And also it is almost impossible to debug it (for me at least).\nSo I check the code and everything seems correct to me. Here is the trainModal class where the error happens :</p>\n<pre class=\"lang-py prettyprint-override\"><code>        class trainModal(ui.Modal):\n            def __init__(self):\n                super().__init__(\n                    title=&quot;Training Dialog&quot;,\n                )\n                self.amount = ui.TextInput(label=&quot;Amount&quot;, style=discord.TextStyle.short,\n                                           placeholder=&quot;Integer&quot;, required=True, min_length=1)\n                self.add_item(self.amount)\n\n#I get input from a user through the modal ^^ \n\n\n            async def on_submit(self, interaction):\n                await interaction.response.defer()\n                user = interaction.user\n                val = int(self.amount.value)\n                troop_name = train_select.values[0]\n                troop_name = troop_name.lower()\n\n                troop = Troops[troop_name]\n                cost = troop[&quot;cost&quot;] * val\n                train_time = troop[&quot;time&quot;] * val\n\n#I calucalate after submiting the values what db manipulation I should do.\n\n                player = command_tree.db.get_player(user.id)\n                if player.gold &lt; cost:\n                    return await interaction.followup.send(\n                        f&quot;You don't have enough gold to train {val} {troop_name}.&quot;\n                    )\n\n                msg: discord.WebhookMessage = await interaction.followup.send(\n                    f&quot;Training {self.amount} {troop_name} in `{train_time}` seconds.&quot;)\n                await asyncio.sleep(train_time)\n\n#I wait for time through asyncio.sleep and after it is done, the error kicks in and the part below is never executed.\n\n\n\n                command_tree.db.update_player(user.id, +val, troop_name)\n                command_tree.db.update_player(user.id, -cost, &quot;gold&quot;)\n                await msg.edit(\n                    content=f&quot;Trained {self.amount} {troop_name} for {emote.GOLD} {cost}&quot;\n                )\n</code></pre>\n<p>I don't find any syntax or anything like that in this piece of code. In docs the kwargs are supposed to be just like how I have them in the modal class, but the error keeps persisting no matter the changes. I opened a discussion in discord.py as well and waiting for a response. Any help from you as well , would be appreciated.</p>\n"
+        },
+        {
+            "tags": [
+                "python",
+                "mysql",
+                "binance-api-client",
+                "python-binance"
+            ],
+            "answers": [
+                {
+                    "owner": {
+                        "account_id": 28407962,
+                        "reputation": 554,
+                        "user_id": 21731712,
+                        "user_type": "registered",
+                        "profile_image": "https://www.gravatar.com/avatar/23800a9d4155212993a9761a35803b43?s=256&d=identicon&r=PG&f=y&so-version=2",
+                        "display_name": "PRATHEESH PC",
+                        "link": "https://stackoverflow.com/users/21731712/pratheesh-pc"
+                    },
+                    "comment_count": 0,
+                    "accepted": false,
+                    "is_accepted": true,
+                    "score": 1,
+                    "last_activity_date": 1684845552,
+                    "last_edit_date": 1684845552,
+                    "creation_date": 1684845185,
+                    "answer_id": 76314805,
+                    "question_id": 76314102,
+                    "content_license": "CC BY-SA 4.0",
+                    "title": "get_exchange_info() from Binance API",
+                    "body": "<p>The issue is related to the <code>exch_info</code> parameter provided in the <code>execute_many</code>. As it is unable to convert the type list into MYSQL format.</p>\n<pre class=\"lang-py prettyprint-override\"><code>    params = [] \n    for row in exch_info:\n        params.append({\n            'symbol': row['symbol'], \n            'baseAsset': row['baseAsset'], \n            'quoteAsset': row['quoteAsset']\n    })\n\n</code></pre>\n<pre><code>mycursor.executemany(f&quot;INSERT INTO `param_asset_binance` (Ticker,Coin1,Coin2) VALUES ( %(symbol)s, %(baseAsset)s, %(quoteAsset)s) ON DUPLICATE KEY UPDATE Coin1 = VALUES(Coin1), Coin2 = VALUES(Coin2) &quot;, params)\n</code></pre>\n<p><strong>Reference</strong> :</p>\n<p><a href=\"https://stackoverflow.com/questions/18244565/how-can-i-use-executemany-to-insert-into-mysql-a-list-of-dictionaries-in-python\">How can I use executemany to insert into MySQL a list of dictionaries in Python</a></p>\n<p><a href=\"https://dev.mysql.com/doc/connector-python/en/connector-python-api-mysqlcursor-executemany.html\" rel=\"nofollow noreferrer\">https://dev.mysql.com/doc/connector-python/en/connector-python-api-mysqlcursor-executemany.html</a></p>\n"
+                }
+            ],
+            "owner": {
+                "account_id": 14507105,
+                "reputation": 65,
+                "user_id": 13797447,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/af0c1a627ab5f41a8adf07e5c5f667e8?s=256&d=identicon&r=PG&f=y&so-version=2",
+                "display_name": "Mat",
+                "link": "https://stackoverflow.com/users/13797447/mat"
+            },
+            "comment_count": 0,
+            "is_answered": true,
+            "view_count": 33,
+            "accepted_answer_id": 76314805,
+            "answer_count": 1,
+            "score": 0,
+            "last_activity_date": 1684845552,
+            "creation_date": 1684840440,
+            "question_id": 76314102,
+            "share_link": "https://stackoverflow.com/q/76314102/14467927",
+            "link": "https://stackoverflow.com/questions/76314102/get-exchange-info-from-binance-api",
+            "title": "get_exchange_info() from Binance API",
+            "body": "<p>I am new to Python (I mean really new &gt; 7 weeks in on my free time) , bear with me...</p>\n<p>I am trying to get exchange info from Binance for a project.</p>\n<p>I am using the python-binance package.I get the exchange info with:</p>\n<pre><code>   exch_info = client.get_exchange_info()\n</code></pre>\n<p>The result is a very complicated mix from which I want to extract 'baseAsset' and 'quoteAsset' and put it in a table I already have based on my field 'Ticker' ('symbol' in the response).</p>\n<p>see <a href=\"https://python-binance.readthedocs.io/en/latest/binance.html#binance.client.Client.get_exchange_info\" rel=\"nofollow noreferrer\">https://python-binance.readthedocs.io/en/latest/binance.html#binance.client.Client.get_exchange_info</a></p>\n<p>I extract the list of dictionnaries I want by adding ['symbols']:</p>\n<pre><code>   exch_info = client.get_exchange_info()['symbols']\n</code></pre>\n<p>I have tried (don't judge me) but I am stuck. I want to end up with a MySQL query that currently looks like:</p>\n<pre><code>   exch_info = client.get_exchange_info()['symbols']\n   mycursor.executemany(f&quot;INSERT INTO `param_asset_binance` (Ticker,Coin1,Coin2) VALUES ( %(symbol)s, %(baseAsset)s, %(quoteAsset)s) ON DUPLICATE KEY UPDATE Coin1 = VALUES(Coin1), Coin2 = VALUES(Coin2) &quot;, exch_info)\n    #mydb.commit()\n</code></pre>\n<p>My errors are:</p>\n<pre><code>Traceback (most recent call last):\n  File &quot;C:\\Users\\mathi\\anaconda3\\lib\\site-packages\\mysql\\connector\\conversion.py&quot;, line 179, in to_mysql\n    return getattr(self, &quot;_{0}_to_mysql&quot;.format(type_name))(value)\nAttributeError: 'MySQLConverter' object has no attribute '_list_to_mysql'\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File &quot;C:\\Users\\xxxx\\anaconda3\\lib\\site-packages\\mysql\\connector\\cursor.py&quot;, line 395, in _process_params_dict\n    conv = to_mysql(conv)\n  File &quot;C:\\Users\\xxxx\\anaconda3\\lib\\site-packages\\mysql\\connector\\conversion.py&quot;, line 181, in to_mysql\n    raise TypeError(&quot;Python '{0}' cannot be converted to a &quot;\nTypeError: Python 'list' cannot be converted to a MySQL type\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File &quot;c:\\Users\\xxxx\\library_param.py&quot;, line 45, in &lt;module&gt;\n    update_binance_exch_info()\n  File &quot;c:\\Users\\xxxx\\library_param.py&quot;, line 42, in update_binance_exch_info\n    mycursor.executemany(f&quot;INSERT INTO `autobot_core`.`param_asset_binance` (Ticker,Coin1,Coin2) VALUES ( %(symbol)s, %(baseAsset)s, %(quoteAsset)s) ON DUPLICATE KEY UPDATE Coin1 = VALUES(Coin1), Coin2 = VALUES(Coin2) &quot;, exch_info)\n  File &quot;C:\\Users\\xxxx\\anaconda3\\lib\\site-packages\\mysql\\connector\\cursor.py&quot;, line 652, in executemany\n    stmt = self._batch_insert(operation, seq_params)\n  File &quot;C:\\Users\\xxxx\\anaconda3\\lib\\site-packages\\mysql\\connector\\cursor.py&quot;, line 591, in _batch_insert\n    tmp, self._process_params_dict(params))\n  File &quot;C:\\Users\\xxxx\\anaconda3\\lib\\site-packages\\mysql\\connector\\cursor.py&quot;, line 403, in _process_params_dict\n    raise errors.ProgrammingError(\nmysql.connector.errors.ProgrammingError: Failed processing pyformat-parameters; Python 'list' cannot be converted to a MySQL type\n</code></pre>\n<p>what am I doing wrong?</p>\n"
+        },
+        {
+            "tags": [
+                "python",
+                "mysql",
+                "pyspark"
+            ],
+            "comments": [
+                {
+                    "owner": {
+                        "account_id": 1613587,
+                        "reputation": 731500,
+                        "user_id": 1491895,
+                        "user_type": "registered",
+                        "accept_rate": 69,
+                        "profile_image": "https://www.gravatar.com/avatar/82f9e178a16364bf561d0ed4da09a35d?s=256&d=identicon&r=PG",
+                        "display_name": "Barmar",
+                        "link": "https://stackoverflow.com/users/1491895/barmar"
+                    },
+                    "edited": false,
+                    "score": 0,
+                    "post_type": "question",
+                    "creation_date": 1684775287,
+                    "post_id": 76308481,
+                    "comment_id": 134562875,
+                    "content_license": "CC BY-SA 4.0",
+                    "link": "https://stackoverflow.com/questions/76308481/error-while-updating-table-in-mysql-mysql-connector-errors-databaseerror-1412#comment134562875_76308481",
+                    "body": "Some other process has performed <code>ALTER TABLE</code> on one of the tables in your query. A transaction can&#39;t handle that kind of change."
+                }
+            ],
+            "answers": [
+                {
+                    "comments": [
+                        {
+                            "owner": {
+                                "account_id": 16528397,
+                                "reputation": 211,
+                                "user_id": 11942410,
+                                "user_type": "registered",
+                                "profile_image": "https://lh5.googleusercontent.com/-gaLjILGB8OU/AAAAAAAAAAI/AAAAAAAABJI/HRuMCc5NebE/photo.jpg?sz=256",
+                                "display_name": "vish",
+                                "link": "https://stackoverflow.com/users/11942410/vish"
+                            },
+                            "edited": false,
+                            "score": 0,
+                            "post_type": "answer",
+                            "creation_date": 1684781240,
+                            "post_id": 76308556,
+                            "comment_id": 134564100,
+                            "content_license": "CC BY-SA 4.0",
+                            "link": "https://stackoverflow.com/questions/76308481/error-while-updating-table-in-mysql-mysql-connector-errors-databaseerror-1412/76308556#comment134564100_76308556",
+                            "body": "already generating random table name. please check updated question."
+                        }
+                    ],
+                    "owner": {
+                        "account_id": 71085,
+                        "reputation": 102161,
+                        "user_id": 205608,
+                        "user_type": "registered",
+                        "accept_rate": 69,
+                        "profile_image": "https://www.gravatar.com/avatar/9f2486a2b9ce41bd248d11d4a2b0ce64?s=256&d=identicon&r=PG&f=y&so-version=2",
+                        "display_name": "O. Jones",
+                        "link": "https://stackoverflow.com/users/205608/o-jones"
+                    },
+                    "comment_count": 1,
+                    "accepted": false,
+                    "is_accepted": false,
+                    "score": 0,
+                    "last_activity_date": 1684775876,
+                    "creation_date": 1684775876,
+                    "answer_id": 76308556,
+                    "question_id": 76308481,
+                    "content_license": "CC BY-SA 4.0",
+                    "title": "error while updating table in MySQL : mysql.connector.errors.DatabaseError: 1412 (HY000): Table definition has changed, please retry transaction",
+                    "body": "<p>It looks to my like you're running more than one instance of this program you showed us at once. And, I guess the second instance starts out by creating a table that <em>you think is temporary</em>, but is actually a <em>permanent table with the same exact name as the first instance's</em>. The second program does a <code>CREATE TABLE</code> while the first one is using the table, and confusion ensues, and the DBMS says &quot;I give up! I don't know what you want!&quot;</p>\n<p>How to fix this?</p>\n<ol>\n<li><p>Generate a random or otherwise unique name for the temporary table each time you run the program, or ...</p>\n</li>\n<li><p>Make sure your ORM uses <code>CREATE TEMPORARY TABLE tablename</code> when it creates that temporary table. Temporary table names are scoped to the connection as well as to the schema, so you can use the same name from different instances.</p>\n</li>\n</ol>\n"
+                }
+            ],
+            "owner": {
+                "account_id": 16528397,
+                "reputation": 211,
+                "user_id": 11942410,
+                "user_type": "registered",
+                "profile_image": "https://lh5.googleusercontent.com/-gaLjILGB8OU/AAAAAAAAAAI/AAAAAAAABJI/HRuMCc5NebE/photo.jpg?sz=256",
+                "display_name": "vish",
+                "link": "https://stackoverflow.com/users/11942410/vish"
+            },
+            "comment_count": 1,
+            "is_answered": false,
+            "view_count": 51,
+            "answer_count": 1,
+            "score": 0,
+            "last_activity_date": 1684781323,
+            "creation_date": 1684775185,
+            "last_edit_date": 1684781323,
+            "question_id": 76308481,
+            "share_link": "https://stackoverflow.com/q/76308481/14467927",
+            "link": "https://stackoverflow.com/questions/76308481/error-while-updating-table-in-mysql-mysql-connector-errors-databaseerror-1412",
+            "title": "error while updating table in MySQL : mysql.connector.errors.DatabaseError: 1412 (HY000): Table definition has changed, please retry transaction",
+            "body": "<p>I am working on one personal project.\nThere is multiple similar questions on this forum however everyone is case specific.\nIn my case i am creating and loading temp table, i am joining that table with existing table in DB and updating the same table based on temp table results. while executing <code>db.execute_insert_update()</code> it throws an exception : <code>mysql.connector.errors.DatabaseError: 1412 (HY000): Table definition has changed, please retry transaction</code></p>\n<pre><code> &gt;  def _create_and_load_table(self, dataframe: DataFrame) -&gt; str: #first_function\n    self._log_entry()\n    temp_table_name = self._generate_table_name()\n    table_schema = &quot;partner_staging&quot;\n    table_with_schema = f&quot;{table_schema}.{temp_table_name}&quot;\n\n    self.df_mgr.jdbc_write(dataframe=dataframe, dbtable=table_with_schema, \n   check_count_before_write=True)\n    self._log_exit()\n    return temp_table_name\n\ndef reconcile_partner_payments(self, dataframe: DataFrame) -&gt; NoReturn: #second function\n    self.logger.info(&quot;Start reconcile_partner_payments&quot;)\n    self.logger.info(f&quot;df_col:{dataframe.columns}&quot;)\n    partner_payment_ids = dataframe.select(&quot;partner_payment_id&quot;, \n    &quot;effective_payroll_date&quot;).distinct()\n    self.logger.info(f&quot;head:{partner_payment_ids.head(3)}&quot;)\n    self.logger.info(f&quot;count:{partner_payment_ids.count()}&quot;)\n    self.logger.info(f&quot;c:{partner_payment_ids.columns}&quot;)\n    temp_table_name = self._create_and_load_table(partner_payment_ids)\n    table_schema = &quot;partner_staging&quot;\n    update_query = &quot;&quot;&quot;UPDATE abc.partner_payment as pp\n                      JOIN partner_staging.{temp_table_name} as t on pp.id = \n           t.partner_payment_id\n                      SET pp.reconciled = 1, pp.modify_ts = NOW() , pp.modify_user = 'ok \n                    successfull'&quot;&quot;&quot;\n  \n\n    self.db.execute_insert_update(query_sql=update_query)\n    self.db.drop_table(table_schema, temp_table_name)\n    self.logger.info(&quot;End reconcile_partner_payments&quot;)\n\n\n    def execute_insert_update(self, query_sql, args=()) -&gt; None: #method being used in second_function\n    \n    try:\n        cursor = self.get_cursor()\n        self.start_transaction()\n        cursor.execute(query_sql, args)\n        self._connection.handle_unread_result()\n        self.commit()\n    except Error as e:\n        stack = traceback.format_exc()\n        self.rollback()\n        print(stack)\n        logger_func = Cache()[keys.LOGGER].info if keys.LOGGER in Cache() else print\n        logger_func(f&quot;stack_: {stack}&quot;)\n        raise e\n    finally:\n        self.close_cursor()\n\n &gt;  def _generate_table_name(self):#generate unique name\n    self.logger.info(&quot;Start _generate_table_name&quot;)\n    rand_str = random_str(length=4)\n    self.logger.info(&quot;End _generate_table_name&quot;)\n    return f&quot;temp_{self.partner_name}_{self.company_name}_{self.payroll_name}_{rand_str}&quot;\n</code></pre>\n<p>i tried defining the schema for the temp table however it is the same error.</p>\n"
+        },
+        {
+            "tags": [
+                "python",
+                "mysql"
+            ],
+            "comments": [
+                {
+                    "owner": {
+                        "account_id": 1613587,
+                        "reputation": 731500,
+                        "user_id": 1491895,
+                        "user_type": "registered",
+                        "accept_rate": 69,
+                        "profile_image": "https://www.gravatar.com/avatar/82f9e178a16364bf561d0ed4da09a35d?s=256&d=identicon&r=PG",
+                        "display_name": "Barmar",
+                        "link": "https://stackoverflow.com/users/1491895/barmar"
+                    },
+                    "edited": false,
+                    "score": 2,
+                    "post_type": "question",
+                    "creation_date": 1684773638,
+                    "post_id": 76308271,
+                    "comment_id": 134562542,
+                    "content_license": "CC BY-SA 4.0",
+                    "link": "https://stackoverflow.com/questions/76308271/insert-into-a-mysql-table-or-update-if-exists-on-a-non-key-field#comment134562542_76308271",
+                    "body": "Why isn&#39;t there a unique index on this column if it has to stay unique?"
+                },
+                {
+                    "owner": {
+                        "account_id": 1613587,
+                        "reputation": 731500,
+                        "user_id": 1491895,
+                        "user_type": "registered",
+                        "accept_rate": 69,
+                        "profile_image": "https://www.gravatar.com/avatar/82f9e178a16364bf561d0ed4da09a35d?s=256&d=identicon&r=PG",
+                        "display_name": "Barmar",
+                        "link": "https://stackoverflow.com/users/1491895/barmar"
+                    },
+                    "edited": false,
+                    "score": 0,
+                    "post_type": "question",
+                    "creation_date": 1684773720,
+                    "post_id": 76308271,
+                    "comment_id": 134562557,
+                    "content_license": "CC BY-SA 4.0",
+                    "link": "https://stackoverflow.com/questions/76308271/insert-into-a-mysql-table-or-update-if-exists-on-a-non-key-field#comment134562557_76308271",
+                    "body": "If you can&#39;t use <code>ON DUPLICATE KEY</code> then you have to use multiple queries."
+                },
+                {
+                    "owner": {
+                        "account_id": 2674049,
+                        "reputation": 93357,
+                        "user_id": 2310830,
+                        "user_type": "registered",
+                        "profile_image": "https://i.stack.imgur.com/P6rM1.png?s=256&g=1",
+                        "display_name": "RiggsFolly",
+                        "link": "https://stackoverflow.com/users/2310830/riggsfolly"
+                    },
+                    "edited": false,
+                    "score": 0,
+                    "post_type": "question",
+                    "creation_date": 1684773986,
+                    "post_id": 76308271,
+                    "comment_id": 134562617,
+                    "content_license": "CC BY-SA 4.0",
+                    "link": "https://stackoverflow.com/questions/76308271/insert-into-a-mysql-table-or-update-if-exists-on-a-non-key-field#comment134562617_76308271",
+                    "body": "Its always best to at least give us a bit of a clue by showing us at least an example of the query. It stops us having to guess from a poorly described question what you actually mean."
+                },
+                {
+                    "owner": {
+                        "account_id": 2674049,
+                        "reputation": 93357,
+                        "user_id": 2310830,
+                        "user_type": "registered",
+                        "profile_image": "https://i.stack.imgur.com/P6rM1.png?s=256&g=1",
+                        "display_name": "RiggsFolly",
+                        "link": "https://stackoverflow.com/users/2310830/riggsfolly"
+                    },
+                    "edited": false,
+                    "score": 0,
+                    "post_type": "question",
+                    "creation_date": 1684774279,
+                    "post_id": 76308271,
+                    "comment_id": 134562666,
+                    "content_license": "CC BY-SA 4.0",
+                    "link": "https://stackoverflow.com/questions/76308271/insert-into-a-mysql-table-or-update-if-exists-on-a-non-key-field#comment134562666_76308271",
+                    "body": "Seems like a redesign of the database is what is really required here"
+                },
+                {
+                    "owner": {
+                        "account_id": 10929,
+                        "reputation": 534488,
+                        "user_id": 20860,
+                        "user_type": "registered",
+                        "accept_rate": 92,
+                        "profile_image": "https://i.stack.imgur.com/iavmP.jpg?s=256&g=1",
+                        "display_name": "Bill Karwin",
+                        "link": "https://stackoverflow.com/users/20860/bill-karwin"
+                    },
+                    "edited": false,
+                    "score": 0,
+                    "post_type": "question",
+                    "creation_date": 1684775151,
+                    "post_id": 76308271,
+                    "comment_id": 134562843,
+                    "content_license": "CC BY-SA 4.0",
+                    "link": "https://stackoverflow.com/questions/76308271/insert-into-a-mysql-table-or-update-if-exists-on-a-non-key-field#comment134562843_76308271",
+                    "body": "Searching past answers, I found this same question has been asked many times over many years. Example from 2010: <a href=\"https://stackoverflow.com/questions/3180913/mysql-update-on-duplicate-key-without-a-unique-column\" title=\"mysql update on duplicate key without a unique column\">stackoverflow.com/questions/3180913/&hellip;</a> Most of the answers are: <i>&quot;add a unique constraint on the column you want to be unique, then use <code>INSERT ... ON DUPLICATE KEY UPDATE</code>.&quot;</i>"
+                },
+                {
+                    "owner": {
+                        "account_id": 10929,
+                        "reputation": 534488,
+                        "user_id": 20860,
+                        "user_type": "registered",
+                        "accept_rate": 92,
+                        "profile_image": "https://i.stack.imgur.com/iavmP.jpg?s=256&g=1",
+                        "display_name": "Bill Karwin",
+                        "link": "https://stackoverflow.com/users/20860/bill-karwin"
+                    },
+                    "edited": false,
+                    "score": 0,
+                    "post_type": "question",
+                    "creation_date": 1684775255,
+                    "post_id": 76308271,
+                    "comment_id": 134562864,
+                    "content_license": "CC BY-SA 4.0",
+                    "link": "https://stackoverflow.com/questions/76308271/insert-into-a-mysql-table-or-update-if-exists-on-a-non-key-field#comment134562864_76308271",
+                    "body": "The alternative is to run two queries, one to check if the row exists, then conditionally execute INSERT or UPDATE. Example from 2015: <a href=\"https://stackoverflow.com/questions/33495194/mysql-insert-on-duplicate-update-for-non-primary-key\" title=\"mysql insert on duplicate update for non primary key\">stackoverflow.com/questions/33495194/&hellip;</a>"
+                },
+                {
+                    "owner": {
+                        "account_id": 9744358,
+                        "reputation": 38610,
+                        "user_id": 10138734,
+                        "user_type": "registered",
+                        "profile_image": "https://i.stack.imgur.com/sf6Zj.jpg?s=256&g=1",
+                        "display_name": "Akina",
+                        "link": "https://stackoverflow.com/users/10138734/akina"
+                    },
+                    "edited": false,
+                    "score": 0,
+                    "post_type": "question",
+                    "creation_date": 1684779043,
+                    "post_id": 76308271,
+                    "comment_id": 134563634,
+                    "content_license": "CC BY-SA 4.0",
+                    "link": "https://stackoverflow.com/questions/76308271/insert-into-a-mysql-table-or-update-if-exists-on-a-non-key-field#comment134563634_76308271",
+                    "body": "<i>The issue is I want to check on another field that is not the key, but yet has so stay unique.</i> If the column must be unique then you must create according unique index. This is the only way to check the data consistency. <i>I do NOT want to use the REPLACE because of the auto increment field (REPLACE deletes and inserts)</i> REPLACE needs in unique constraint too."
+                },
+                {
+                    "owner": {
+                        "account_id": 14507105,
+                        "reputation": 65,
+                        "user_id": 13797447,
+                        "user_type": "registered",
+                        "profile_image": "https://www.gravatar.com/avatar/af0c1a627ab5f41a8adf07e5c5f667e8?s=256&d=identicon&r=PG&f=y&so-version=2",
+                        "display_name": "Mat",
+                        "link": "https://stackoverflow.com/users/13797447/mat"
+                    },
+                    "reply_to_user": {
+                        "account_id": 2674049,
+                        "reputation": 93357,
+                        "user_id": 2310830,
+                        "user_type": "registered",
+                        "profile_image": "https://i.stack.imgur.com/P6rM1.png?s=256&g=1",
+                        "display_name": "RiggsFolly",
+                        "link": "https://stackoverflow.com/users/2310830/riggsfolly"
+                    },
+                    "edited": false,
+                    "score": 0,
+                    "post_type": "question",
+                    "creation_date": 1684783683,
+                    "post_id": 76308271,
+                    "comment_id": 134564588,
+                    "content_license": "CC BY-SA 4.0",
+                    "link": "https://stackoverflow.com/questions/76308271/insert-into-a-mysql-table-or-update-if-exists-on-a-non-key-field#comment134564588_76308271",
+                    "body": "@RiggsFolly, I thought my question was pretty explanatory, and the accompagning query as well. I am only new so lacking some subtilities maybe. I don&#39;t think it deserved a -1 though..."
+                },
+                {
+                    "owner": {
+                        "account_id": 14507105,
+                        "reputation": 65,
+                        "user_id": 13797447,
+                        "user_type": "registered",
+                        "profile_image": "https://www.gravatar.com/avatar/af0c1a627ab5f41a8adf07e5c5f667e8?s=256&d=identicon&r=PG&f=y&so-version=2",
+                        "display_name": "Mat",
+                        "link": "https://stackoverflow.com/users/13797447/mat"
+                    },
+                    "edited": false,
+                    "score": 0,
+                    "post_type": "question",
+                    "creation_date": 1684783698,
+                    "post_id": 76308271,
+                    "comment_id": 134564592,
+                    "content_license": "CC BY-SA 4.0",
+                    "link": "https://stackoverflow.com/questions/76308271/insert-into-a-mysql-table-or-update-if-exists-on-a-non-key-field#comment134564592_76308271",
+                    "body": "I added a index on Ticke ans it does work. Thanks all"
+                }
+            ],
+            "answers": [
+                {
+                    "comments": [
+                        {
+                            "owner": {
+                                "account_id": 14507105,
+                                "reputation": 65,
+                                "user_id": 13797447,
+                                "user_type": "registered",
+                                "profile_image": "https://www.gravatar.com/avatar/af0c1a627ab5f41a8adf07e5c5f667e8?s=256&d=identicon&r=PG&f=y&so-version=2",
+                                "display_name": "Mat",
+                                "link": "https://stackoverflow.com/users/13797447/mat"
+                            },
+                            "edited": false,
+                            "score": 0,
+                            "post_type": "answer",
+                            "creation_date": 1684783709,
+                            "post_id": 76308417,
+                            "comment_id": 134564594,
+                            "content_license": "CC BY-SA 4.0",
+                            "link": "https://stackoverflow.com/questions/76308271/insert-into-a-mysql-table-or-update-if-exists-on-a-non-key-field/76308417#comment134564594_76308417",
+                            "body": "I added a index on Ticke ans it does work. Thanks all"
+                        }
+                    ],
+                    "owner": {
+                        "account_id": 3389529,
+                        "reputation": 776,
+                        "user_id": 2844703,
+                        "user_type": "registered",
+                        "accept_rate": 93,
+                        "profile_image": "https://www.gravatar.com/avatar/60dbae56ea5e380f5836a717852a8650?s=256&d=identicon&r=PG",
+                        "display_name": "James",
+                        "link": "https://stackoverflow.com/users/2844703/james"
+                    },
+                    "comment_count": 1,
+                    "accepted": false,
+                    "is_accepted": true,
+                    "score": 1,
+                    "last_activity_date": 1684774653,
+                    "creation_date": 1684774653,
+                    "answer_id": 76308417,
+                    "question_id": 76308271,
+                    "content_license": "CC BY-SA 4.0",
+                    "title": "Insert into a MySQL table or update if exists on a non KEY field",
+                    "body": "<p>You can use the INSERT ... ON DUPLICATE KEY UPDATE statement, but as mentioned in the comments, you need to have a unique index on the 'Ticker' column. For example:</p>\n<pre><code>forex = [{'symbol': 'EURUSD', 'price': '1.06763000'}, {'symbol': 'GBPEUR', 'price': '0.90339600'}, {'symbol': 'EURJPYC', 'price': '0.000011200'}]\n\nquery = &quot;INSERT INTO `param_forex` (Ticker, Price) VALUES (%(symbol)s, %(price)s) ON DUPLICATE KEY UPDATE Price = VALUES(Price)&quot;\n\nmycursor.executemany(query, forex)\nmydb.commit()\n</code></pre>\n<p>To make this work, just alter the table to include a unique key:</p>\n<pre><code>ALTER TABLE `param_forex` ADD UNIQUE INDEX `idx_Ticker` (`Ticker`);\n</code></pre>\n"
+                }
+            ],
+            "owner": {
+                "account_id": 14507105,
+                "reputation": 65,
+                "user_id": 13797447,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/af0c1a627ab5f41a8adf07e5c5f667e8?s=256&d=identicon&r=PG&f=y&so-version=2",
+                "display_name": "Mat",
+                "link": "https://stackoverflow.com/users/13797447/mat"
+            },
+            "comment_count": 9,
+            "is_answered": true,
+            "view_count": 49,
+            "accepted_answer_id": 76308417,
+            "answer_count": 1,
+            "score": 0,
+            "last_activity_date": 1684774653,
+            "creation_date": 1684773385,
+            "last_edit_date": 1684774169,
+            "question_id": 76308271,
+            "share_link": "https://stackoverflow.com/q/76308271/14467927",
+            "link": "https://stackoverflow.com/questions/76308271/insert-into-a-mysql-table-or-update-if-exists-on-a-non-key-field",
+            "title": "Insert into a MySQL table or update if exists on a non KEY field",
+            "body": "<p>I want to  INSERT INTO MySQL or UPDATE MySQL if exist without having to run 2 different queries.</p>\n<p>I have checked\n<a href=\"https://stackoverflow.com/questions/696190/create-if-an-entry-if-it-doesnt-exist-otherwise-update\">Create if an entry if it doesn&#39;t exist, otherwise update?</a></p>\n<pre><code>INSERT INTO table (a) VALUES (0)  ON DUPLICATE KEY UPDATE\n</code></pre>\n<p>but it only works if you check doubles on the key.\nThe issue is I want to check on another field that is not the key, but yet has so stay unique.\nI want to ADD or UPDATE on checking the 'symbol' in my dictionary:</p>\n<p>The data I get is (example)</p>\n<pre><code>forex = [{'symbol': 'EURUSD', 'price': '1.06763000'}, {'symbol': 'GBPEUR', 'price': '0.90339600'}, {'symbol': 'EURJPYC', 'price': '0.000011200'}]\n</code></pre>\n<p>The INSERT INTO I want to adapt is:</p>\n<pre><code>mycursor.executemany(f&quot;INSERT INTO `param_forex` (Ticker,Price) \n                    VALUES ( %(symbol)s, %(price)s)&quot;, forex)\nmydb.commit()\n</code></pre>\n<p>I do NOT want to use the REPLACE because of the auto increment field (REPLACE deletes and inserts)\nThe column I am checking for duplicates is <code>Ticker</code> in the table and symbol in the dictionary.</p>\n<p>I am stuck. Is there a solution?</p>\n"
+        },
+        {
+            "tags": [
+                "python",
+                "mysql",
+                "database-connection",
+                "pymysql"
+            ],
+            "comments": [
+                {
+                    "owner": {
+                        "account_id": 11064698,
+                        "reputation": 711,
+                        "user_id": 9659620,
+                        "user_type": "registered",
+                        "profile_image": "https://www.gravatar.com/avatar/f3e4eef6e25a850993af24243cfff530?s=256&d=identicon&r=PG&f=y&so-version=2",
+                        "display_name": "Klops",
+                        "link": "https://stackoverflow.com/users/9659620/klops"
+                    },
+                    "edited": false,
+                    "score": 0,
+                    "post_type": "question",
+                    "creation_date": 1684761210,
+                    "post_id": 76306470,
+                    "comment_id": 134559602,
+                    "content_license": "CC BY-SA 4.0",
+                    "link": "https://stackoverflow.com/questions/76306470/can-only-concatenate-str-not-tuple-to-str-on-mysql-connector-connect-in#comment134559602_76306470",
+                    "body": "do i understand you correct that the error happens when you try to connect? not when executing a query? can you print the connection arguments right before connecting and give us the output?"
+                },
+                {
+                    "owner": {
+                        "account_id": 23535348,
+                        "reputation": 17601,
+                        "user_id": 17580381,
+                        "user_type": "registered",
+                        "profile_image": "https://i.stack.imgur.com/CTwuL.jpg?s=256&g=1",
+                        "display_name": "DarkKnight",
+                        "link": "https://stackoverflow.com/users/17580381/darkknight"
+                    },
+                    "edited": false,
+                    "score": 1,
+                    "post_type": "question",
+                    "creation_date": 1684761312,
+                    "post_id": 76306470,
+                    "comment_id": 134559628,
+                    "content_license": "CC BY-SA 4.0",
+                    "link": "https://stackoverflow.com/questions/76306470/can-only-concatenate-str-not-tuple-to-str-on-mysql-connector-connect-in#comment134559628_76306470",
+                    "body": "Let&#39;s see the full stack trace and also how you&#39;re constructing your Database class"
+                },
+                {
+                    "owner": {
+                        "account_id": 3884753,
+                        "reputation": 10403,
+                        "user_id": 3216427,
+                        "user_type": "registered",
+                        "profile_image": "https://www.gravatar.com/avatar/5250f90e782e8210ace9b580a150781f?s=256&d=identicon&r=PG&f=y&so-version=2",
+                        "display_name": "joanis",
+                        "link": "https://stackoverflow.com/users/3216427/joanis"
+                    },
+                    "edited": false,
+                    "score": 0,
+                    "post_type": "question",
+                    "creation_date": 1684791859,
+                    "post_id": 76306470,
+                    "comment_id": 134565939,
+                    "content_license": "CC BY-SA 4.0",
+                    "link": "https://stackoverflow.com/questions/76306470/can-only-concatenate-str-not-tuple-to-str-on-mysql-connector-connect-in#comment134565939_76306470",
+                    "body": "There is no occurrence of <code>strip</code> is your code, please share the full stack trace so that we can see what code is actually producing that error."
+                }
+            ],
+            "answers": [
+                {
+                    "owner": {
+                        "account_id": 4165495,
+                        "reputation": 516,
+                        "user_id": 3414537,
+                        "user_type": "registered",
+                        "profile_image": "https://www.gravatar.com/avatar/95773c00a56527774ad1a0385e61a246?s=256&d=identicon&r=PG&f=y&so-version=2",
+                        "display_name": "Er...",
+                        "link": "https://stackoverflow.com/users/3414537/er"
+                    },
+                    "comment_count": 0,
+                    "accepted": false,
+                    "is_accepted": false,
+                    "score": 1,
+                    "last_activity_date": 1684761217,
+                    "creation_date": 1684761217,
+                    "answer_id": 76306574,
+                    "question_id": 76306470,
+                    "content_license": "CC BY-SA 4.0",
+                    "title": "(&#39;can only concatenate str (not &quot;tuple&quot;) to str&#39;,) on mysql.connector.connect in Python",
+                    "body": "<p><code>e.args</code> is a tuple, i.e</p>\n<pre><code>&gt;&gt;&gt; type(ValueError().args)\n&lt;class 'tuple'&gt;\n</code></pre>\n<p>So, when trying to concatenate a string with a tuple, i.e <code>logging.info(&quot;Database Error: &quot; + e.args)</code> it crashes:</p>\n<pre><code>&gt;&gt;&gt; &quot;&quot; + ()\nTraceback (most recent call last):\n  File &quot;&lt;stdin&gt;&quot;, line 1, in &lt;module&gt;\nTypeError: can only concatenate str (not &quot;tuple&quot;) to str\n</code></pre>\n<p>You could join on the <code>e.args</code> to concatenate them without an error being raised:</p>\n<pre><code>logging.info(&quot;Database Error: &quot; + &quot;&quot;.join(e.args))\n</code></pre>\n<p>or, event better, use <a href=\"https://docs.python.org/3/tutorial/inputoutput.html#formatted-string-literals\" rel=\"nofollow noreferrer\">f-strings</a></p>\n<pre><code>logging.info(f&quot;Database Error: {e.args}&quot;)\n</code></pre>\n"
+                }
+            ],
+            "owner": {
+                "account_id": 20270954,
+                "reputation": 1,
+                "user_id": 14867140,
+                "user_type": "registered",
+                "profile_image": "https://lh3.googleusercontent.com/a-/AOh14GhgpzbJb-FkDRksi6IXxDfhcKWxHKZx1llOdXdpuSM=k-s256",
+                "display_name": "Douglas Chiodi",
+                "link": "https://stackoverflow.com/users/14867140/douglas-chiodi"
+            },
+            "comment_count": 3,
+            "is_answered": true,
+            "view_count": 34,
+            "answer_count": 1,
+            "score": 0,
+            "last_activity_date": 1684791781,
+            "creation_date": 1684760432,
+            "last_edit_date": 1684791781,
+            "question_id": 76306470,
+            "share_link": "https://stackoverflow.com/q/76306470/14467927",
+            "link": "https://stackoverflow.com/questions/76306470/can-only-concatenate-str-not-tuple-to-str-on-mysql-connector-connect-in",
+            "title": "(&#39;can only concatenate str (not &quot;tuple&quot;) to str&#39;,) on mysql.connector.connect in Python",
+            "body": "<p>I have a problem in Python. The system says <code>(&quot;'tuple' object has no attribute 'strip'&quot;,)</code> above the function <code>cnx = mysql.connector.connect(host=self.host, database=self.database , user= self.username , password=self.password )</code>, as if it were recognizing the comma as a concatenation. I spent hours and I can't solve it.</p>\n<pre><code>class Database:\n    def __init__(\n        self,\n        host=&quot;localhost&quot;,\n        database=&quot;bayer&quot;,\n        username=&quot;root&quot;,\n        password=&quot;root&quot;,\n        port=&quot;3306&quot;,\n    ) -&gt; None:\n        self.host = str(host)\n        self.database = str(database)\n        self.username = str(username)\n        self.password = str(password)\n        self.port =str(port)\n        self.connection = None\n    \n    \n    def connectDatabase(self):\n        try:\n            logging.basicConfig(level=logging.INFO)\n            \n            if self.connection is not None:\n                logging.info(&quot;return active connection for you&quot;)\n                return self.connection\n                       \n            self.connection =  mysql.connector.connect(host=self.host, database=self.database , user=self.username , password=self.password )\n            \n            \n            logging.info(&quot;CON02&quot;)\n            \n            if self.connection.is_connected():\n                logging.info(&quot;You're connected to database: &quot; + self.database)\n                return self.connection\n            else:\n                logging.error(\n                    &quot;Error in connected to database: &quot; +\n                    self.database)\n            logging.info(&quot;CON03&quot;)\n        except Error as e:\n            logging.info(&quot;Database Error: &quot; + e.args)\n            #raise (e)\n\n    def query(self, connection, sql, *args):\n        cursor = connection.cursor()\n        try:\n            cursor.execute(sql, args)\n            return cursor\n        except Error as e:\n            logging.error(&quot;Database Error: &quot; + e.args)\n            raise (e)\n</code></pre>\n<p>I just need to get past this line with the connection made.</p>\n"
+        },
+        {
+            "tags": [
+                "python",
+                "mysql",
+                "json"
+            ],
+            "answers": [
+                {
+                    "owner": {
+                        "account_id": 252240,
+                        "reputation": 13515,
+                        "user_id": 530160,
+                        "user_type": "registered",
+                        "accept_rate": 69,
+                        "profile_image": "https://i.stack.imgur.com/xRnFS.jpg?s=256&g=1",
+                        "display_name": "Nick ODell",
+                        "link": "https://stackoverflow.com/users/530160/nick-odell"
+                    },
+                    "comment_count": 0,
+                    "accepted": false,
+                    "is_accepted": false,
+                    "score": 0,
+                    "last_activity_date": 1684731848,
+                    "creation_date": 1684731848,
+                    "answer_id": 76303161,
+                    "question_id": 76302854,
+                    "content_license": "CC BY-SA 4.0",
+                    "title": "I have some problems with mysql data loading",
+                    "body": "<pre class=\"lang-py prettyprint-override\"><code>price = result[close]\n</code></pre>\n<p>This code expects you to have a variable called <code>close</code>. It takes the value in that variable, and looks up that value in the <code>result</code> tuple. Since you have no <code>close</code> variable, this is an error.</p>\n<p>I'd suggest changing it to this:</p>\n<pre class=\"lang-py prettyprint-override\"><code>price = result[0]\n</code></pre>\n<p>On the line after that, you have the following:</p>\n<pre class=\"lang-py prettyprint-override\"><code>min_price = result[low]\n</code></pre>\n<p>I don't see how to fix this line: your SQL query is not returning a low value. You either need a different query or need to find a different way to get this information.</p>\n"
+                }
+            ],
+            "owner": {
+                "account_id": 28650843,
+                "reputation": 11,
+                "user_id": 21937839,
+                "user_type": "registered",
+                "profile_image": "https://lh3.googleusercontent.com/a/AGNmyxYCwabE4pxN6nnwF8eVZWvpAlc0JaLn82X50K3FBg=k-s256",
+                "display_name": "Istv&#225;n G&#225;bor Dud&#225;s",
+                "link": "https://stackoverflow.com/users/21937839/istv%c3%a1n-g%c3%a1bor-dud%c3%a1s"
+            },
+            "comment_count": 0,
+            "is_answered": false,
+            "view_count": 45,
+            "answer_count": 1,
+            "score": 0,
+            "last_activity_date": 1684731848,
+            "creation_date": 1684725642,
+            "last_edit_date": 1684731516,
+            "question_id": 76302854,
+            "share_link": "https://stackoverflow.com/q/76302854/14467927",
+            "link": "https://stackoverflow.com/questions/76302854/i-have-some-problems-with-mysql-data-loading",
+            "title": "I have some problems with mysql data loading",
+            "body": "<p>I'm getting these errors, and i don't know how to fix.</p>\n<p>The code is a Chart, its using the tradingview lightweight charts. Its basically generating itself some\nprice and some other datas and making a &quot;stock&quot; chart.</p>\n<p>I'm saving the data to a mysql server, but when i wanna to load the data I'm getting kinda stuck. Can somebody help?</p>\n<p>Error:</p>\n<pre><code>connection handler failed\nTraceback (most recent call last):\n  File &quot;C:\\Users\\dudas\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\websockets\\legacy\\server.py&quot;, line 236, in handler\n    await self.ws_handler(self)\n  File &quot;C:\\Users\\dudas\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\websockets\\legacy\\server.py&quot;, line 1175, in _ws_handler\n    return await cast(\n  File &quot;C:\\xampp\\htdocs\\chart\\price.py&quot;, line 32, in server\n    price = result[close]\nNameError: name 'close' is not defined\n</code></pre>\n<p>Code:</p>\n<pre><code>import asyncio\nimport websockets\nimport random\nfrom datetime import datetime, timedelta\nimport json\nimport mysql.connector\n\n# Establishing a database connection\ncnx = mysql.connector.connect(user='root', password='',\n                              host='localhost',\n                              database='tradewisedb')\ncursor = cnx.cursor()\n\n# Creating the data table if it doesn't exist\ncursor.execute(&quot;&quot;&quot;\nCREATE TABLE IF NOT EXISTS prices (\n    time BIGINT,\n    open FLOAT,\n    high FLOAT,\n    low FLOAT,\n    close FLOAT\n)\n&quot;&quot;&quot;)\n\n# Simulation parameters\nprice = 100.0\ntrend = 1\nvolatility = 0.02\nmin_price = 50.0\nmax_price = 150.0\nfluctuation_range = 0.02\npost_jump_fluctuation = 0.005\ninterval = timedelta(minutes=1)\n\nasync def server(websocket, path):\n    cursor.execute(&quot;SELECT close FROM prices ORDER BY time DESC LIMIT 1&quot;)\n    result = cursor.fetchone()\n\n    if result is not None:\n        price = result[close]\n        min_price = result[low]\n        max_price = result[high]\n\n    else:\n        price = 100.0\n        trend = 1\n        volatility = 0.02\n        min_price = 50.0\n        max_price = 150.0\n        fluctuation_range = 0.02\n        post_jump_fluctuation = 0.005\n        interval = timedelta(minutes=1)     # Fetch previous data from the database\n\n    cursor.execute(&quot;SELECT * FROM prices ORDER BY time ASC LIMIT 1000&quot;)\n\n    rows = cursor.fetchall()\n\n    previous_data = [{\n        'time': row[0],\n        'open': row[1],\n        'high': row[2],\n        'low': row[3],\n        'close': row[4]\n    } for row in rows]\n\n    await websocket.send(json.dumps(previous_data))\n\n    while True:\n        start_time = datetime.now()\n        open_price = price\n        high_price = price\n        low_price = price\n\n        start_time_timestamp = int(start_time.timestamp() * 1000)  # UNIX timestamp in milliseconds\n\n        while datetime.now() - start_time &lt; interval:\n            # Random 'news' events\n            if random.random() &lt; 0.01:\n                trend *= -1\n                volatility = fluctuation_range\n\n            # After a big jump, create some sideways movement\n            else:\n                volatility = post_jump_fluctuation\n\n            # Random 'market' fluctuations\n            price *= 1 + trend * volatility * random.uniform(-1, 1)\n\n            # Ensure price stays within min and max limits\n            if price &gt; max_price:\n                price = max_price\n                trend = -1\n            elif price &lt; min_price:\n                price = min_price\n                trend = 1\n\n            high_price = max(high_price, price)\n            low_price = min(low_price, price)\n\n            temp_data = {\n                &quot;time&quot;: start_time_timestamp,\n                &quot;open&quot;: open_price,\n                &quot;high&quot;: high_price,\n                &quot;low&quot;: low_price,\n                &quot;close&quot;: price\n            }\n\n            await websocket.send(json.dumps(temp_data))\n\n            await asyncio.sleep(1)\n\n        close_price = price\n\n        data = {\n            &quot;time&quot;: start_time_timestamp,\n            &quot;open&quot;: open_price,\n            &quot;high&quot;: high_price,\n            &quot;low&quot;: low_price,\n            &quot;close&quot;: close_price\n        }\n\n        await websocket.send(json.dumps(data))\n\n        # Inserting data into the database\n        add_price = (&quot;INSERT INTO prices &quot;\n                   &quot;(time, open, high, low, close) &quot;\n                   &quot;VALUES (%s, %s, %s, %s, %s)&quot;)\n        cursor.execute(add_price, (data['time'], data['open'], data['high'], data['low'], data['close']))\n        cnx.commit()\n\nstart_server = websockets.serve(server, 'localhost', 8000)\n\nasyncio.get_event_loop().run_until_complete(start_server)\nasyncio.get_event_loop().run_forever()\n\n# Closing the database connection\ncursor.close()\ncnx.close()\n</code></pre>\n<p>Like almost everything what i was know to try.</p>\n"
+        },
+        {
+            "tags": [
+                "python",
+                "mysql",
+                "database",
+                "mariadb"
+            ],
+            "answers": [
+                {
+                    "comments": [
+                        {
+                            "owner": {
+                                "account_id": 9312689,
+                                "reputation": 45,
+                                "user_id": 6913907,
+                                "user_type": "registered",
+                                "accept_rate": 60,
+                                "profile_image": "https://www.gravatar.com/avatar/9fa33e5cb72a3ddc840e9bb31743de62?s=256&d=identicon&r=PG&f=y&so-version=2",
+                                "display_name": "Anath3ma",
+                                "link": "https://stackoverflow.com/users/6913907/anath3ma"
+                            },
+                            "edited": false,
+                            "score": 0,
+                            "post_type": "answer",
+                            "creation_date": 1684656376,
+                            "post_id": 76297648,
+                            "comment_id": 134546469,
+                            "content_license": "CC BY-SA 4.0",
+                            "link": "https://stackoverflow.com/questions/76297581/automatically-create-database-in-python-application/76297648#comment134546469_76297648",
+                            "body": "For what its worth, this isn&#39;t a web application. Its a local application that uses the database to store information on files, similar to something like calibre for ebooks. Though, I see where you&#39;re coming from. I guess my goal is just to improve user experience and not require self set up for the most part."
+                        },
+                        {
+                            "owner": {
+                                "account_id": 18365332,
+                                "reputation": 10164,
+                                "user_id": 13376511,
+                                "user_type": "registered",
+                                "profile_image": "https://i.stack.imgur.com/KB2Aw.png?s=256&g=1",
+                                "display_name": "Michael M.",
+                                "link": "https://stackoverflow.com/users/13376511/michael-m"
+                            },
+                            "reply_to_user": {
+                                "account_id": 9312689,
+                                "reputation": 45,
+                                "user_id": 6913907,
+                                "user_type": "registered",
+                                "accept_rate": 60,
+                                "profile_image": "https://www.gravatar.com/avatar/9fa33e5cb72a3ddc840e9bb31743de62?s=256&d=identicon&r=PG&f=y&so-version=2",
+                                "display_name": "Anath3ma",
+                                "link": "https://stackoverflow.com/users/6913907/anath3ma"
+                            },
+                            "edited": false,
+                            "score": 0,
+                            "post_type": "answer",
+                            "creation_date": 1684670156,
+                            "post_id": 76297648,
+                            "comment_id": 134547881,
+                            "content_license": "CC BY-SA 4.0",
+                            "link": "https://stackoverflow.com/questions/76297581/automatically-create-database-in-python-application/76297648#comment134547881_76297648",
+                            "body": "@Anath3ma If it&#39;s just for local storage, then you may be able to get away with using SQLite. With SQLite, you don&#39;t have to install anything on the system, just call the Python module and it&#39;ll make a database file."
+                        },
+                        {
+                            "owner": {
+                                "account_id": 9312689,
+                                "reputation": 45,
+                                "user_id": 6913907,
+                                "user_type": "registered",
+                                "accept_rate": 60,
+                                "profile_image": "https://www.gravatar.com/avatar/9fa33e5cb72a3ddc840e9bb31743de62?s=256&d=identicon&r=PG&f=y&so-version=2",
+                                "display_name": "Anath3ma",
+                                "link": "https://stackoverflow.com/users/6913907/anath3ma"
+                            },
+                            "edited": false,
+                            "score": 0,
+                            "post_type": "answer",
+                            "creation_date": 1684774083,
+                            "post_id": 76297648,
+                            "comment_id": 134562633,
+                            "content_license": "CC BY-SA 4.0",
+                            "link": "https://stackoverflow.com/questions/76297581/automatically-create-database-in-python-application/76297648#comment134562633_76297648",
+                            "body": "This is really the answer I was looking for I think. Thank you!"
+                        }
+                    ],
+                    "owner": {
+                        "account_id": 18365332,
+                        "reputation": 10164,
+                        "user_id": 13376511,
+                        "user_type": "registered",
+                        "profile_image": "https://i.stack.imgur.com/KB2Aw.png?s=256&g=1",
+                        "display_name": "Michael M.",
+                        "link": "https://stackoverflow.com/users/13376511/michael-m"
+                    },
+                    "comment_count": 3,
+                    "accepted": false,
+                    "is_accepted": true,
+                    "score": 1,
+                    "last_activity_date": 1684623734,
+                    "creation_date": 1684623734,
+                    "answer_id": 76297648,
+                    "question_id": 76297581,
+                    "content_license": "CC BY-SA 4.0",
+                    "title": "Automatically create database in python application",
+                    "body": "<p>You can't have your application automatically install MariaDB &amp; configure it on the machine you're running it on. And even if it could, then you wouldn't want to do that.</p>\n<p>If you were to automatically install and configure the DB, then whenever you run your program for the first time on a new machine, it could take a really long time to install the DB. If you do want to automatically install &amp; configure, then you're better off writing (or finding online) a bash script to do it. Then, you can just run the script separately and don't have to worry about any unexpected side effects.</p>\n<p>Also, most of the time in production your DB isn't even on the same machine as your web app, especially if you're running it on Docker or some other form of containerization. The point of this is to take the strain off of the web app and let another isolated machine handle all the DB stuff. You could also use a service to handle your DB for you, so you don't have to install or configure anything, just provide your web app the URL, username, and password of your DB. This is likely your best bet if you don't want to do any DB configuration. I won't spend any time here listing services that can do it for you, but you can find hundred by just doing a Google search for &quot;MariaDB hosting&quot;.</p>\n"
+                }
+            ],
+            "owner": {
+                "account_id": 9312689,
+                "reputation": 45,
+                "user_id": 6913907,
+                "user_type": "registered",
+                "accept_rate": 60,
+                "profile_image": "https://www.gravatar.com/avatar/9fa33e5cb72a3ddc840e9bb31743de62?s=256&d=identicon&r=PG&f=y&so-version=2",
+                "display_name": "Anath3ma",
+                "link": "https://stackoverflow.com/users/6913907/anath3ma"
+            },
+            "comment_count": 0,
+            "is_answered": true,
+            "view_count": 28,
+            "accepted_answer_id": 76297648,
+            "answer_count": 1,
+            "score": 2,
+            "last_activity_date": 1684623734,
+            "creation_date": 1684621958,
+            "question_id": 76297581,
+            "share_link": "https://stackoverflow.com/q/76297581/14467927",
+            "link": "https://stackoverflow.com/questions/76297581/automatically-create-database-in-python-application",
+            "title": "Automatically create database in python application",
+            "body": "<p>I am relatively new to application development, but I'm working on a personal project and I would like it to automatically deploy a mariadb/mysql db on first install/through an option in the application. Now, I understand how to create a db, after the mariadb server has been set up, and I've got that part implemented and working. But what I would like to do is not have to install mariadb, configure the server, etc, and have the application handle that automatically. I feel like it must be possible, but I haven't been able to find an answer on how to implement it.</p>\n"
+        }
+    ],
+    "has_more": true,
+    "quota_max": 10000,
+    "quota_remaining": 9994
+}
